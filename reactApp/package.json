@@ -2,7 +2,6 @@
   "name": "tw",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ArchitGoswami.github.io/tommyWestphallProject/public",
   "dependencies": {
     "@xyflow/react": "^12.3.6",
     "cra-template": "1.2.0",
