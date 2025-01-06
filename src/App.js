@@ -13,6 +13,7 @@ const nodes = [
     id: '1', // required
     position: { x: 100, y: 100 }, // required
     data: { label: 'Hello' }, // required
+    type: 'input',
   },{
     id: '2', // required
     position: { x: 200, y: 200 }, // required
@@ -28,12 +29,12 @@ function Flow() {
   return (
     <div className="graph-playground-div">
       <ReactFlow nodes={nodes}
+      colorMode="dark"
       edges={edges}
-      colorMode={'dark'}
       onInit={(instance) => setTimeout(() => instance.fitView(), 0)}
       onLoad={(instance) => setTimeout(() => instance.fitView(), 0)}>
-        <Background color="#FF0000" variant={BackgroundVariant.Dot} />
-        <Controls />
+      <Background color="#FF0000" variant={BackgroundVariant.Dot} />
+      <Controls />
       </ReactFlow>
     </div>
   );
