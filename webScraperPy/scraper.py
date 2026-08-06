@@ -5,9 +5,9 @@ produces nodes.json + edges.json ready to drop straight into the React app.
 Why the rewrite:
 - The old version scraped raw HTML (via html_to_json) from three different
   sources, including IMDB, which blocks scrapers with 403s and has no
-  free API.  It also never produced usable node/edge data -- just HTML dumps.
+  free API. It also never produced usable node/edge data -- just HTML dumps.
 - Fandom wikis run on MediaWiki, which exposes a free, stable, no-auth-needed
-  JSON API (api.php).  Using it instead of HTML scraping is far more robust
+  JSON API (api.php). Using it instead of HTML scraping is far more robust
   and gives us exactly what we need:
     1) every show page linked from the master list page  -> our node set
     2) every wikilink FROM each show's page that also points at another
@@ -39,62 +39,6 @@ HEADERS = {
 OUT_DIR = Path("fileDump/jsonDump")
 PUBLIC_DATA_DIRS = [Path("reactApp/public/data"), Path("public/data")]
 REQUEST_DELAY_SECONDS = 0.2  # be polite to Fandom's API
-
-# ── Franchise detection (for node grouping / colour-coding) ──
-# Each rule is a (group_name, list_of_lowercase_substring_patterns).
-# A show is assigned to the *first* matching group.
-FRANCHISE_RULES = [
-    ("Star Trek",           ["star trek"]),
-    ("Law & Order",         ["law & order"]),
-    ("CSI",                 ["csi"]),
-    ("NCIS",                ["ncis"]),
-    ("Stargate",            ["stargate"]),
-    ("Doctor Who",          ["doctor who", "torch wood", "sarah jane", "k-9"]),
-    ("The X-Files",         ["x-files", "x files", "millennium", "lone gunman"]),
-    ("Marvel",              [
-        "dare devil", "daredevil", "jessica jones", "luke cage", "iron fist",
-        "punisher", "mcu", "agents of shield", "marvel", "bat woman",
-        "super girl", "black lightning", "arrow", "legends of tomorrow",
-        "the flash", "defender", "ghost rider", "deadpool", "x-men",
-        "spider-man", "wanda vision", "shang-chi", "ms. marvel", "hawk",
-        "she-hulk", "moon knight", "runaways",
-    ]),
-    ("Grey's Anatomy",      ["grey's anatomy", "greys anatomy", "private practice", "station 19"]),
-    ("Chicago",             ["chicago"]),
-    ("Saved by the Bell",   ["saved by the bell"]),
-    ("Degrassi",            ["degrassi"]),
-    ("Three's Company",     ["three's company", "three's a crowd", "the ropers"]),
-    ("The Office",          ["the office"]),
-    ("Twin Peaks",          ["twin peaks"]),
-    ("Mission: Impossible", ["mission: impossible"]),
-    ("M*A*S*H",             ["m*a*s*h", "aftermash", "w*a*l*t*er"]),
-    ("Andy Griffith",       ["andy griffith", "gomer pyle", "mayberry", "goober"]),
-    ("Cheers / Wings",      ["cheers", "wings", "tattingers", "frasier"]),
-    ("The Simpsons",        ["simpsons"]),
-    ("Brady Bunch",         ["the brady"]),
-    ("Hill Street Blues",   ["hill street"]),
-    ("Friends / Melrose",   ["friends", "mad about you", "melrose place"]),
-    ("Family Ties",         ["family ties"]),
-    ("Golden Girls",        ["golden girls", "empty nest", "the golden palace"]),
-    ("The Munsters",        ["munster"]),
-    ("Addams Family",       ["addam's family", "the addams family"]),
-    ("Batman 1966",         ["batman"]),
-    ("Love Boat",           ["the love boat", "fantasy island"]),
-    ("Bewitched",           ["bewitched"]),
-    ("Seinfeld",            ["seinfeld"]),
-    ("Twilight Zone",       ["twilight zone"]),
-    ("West Wing",           ["west wing"]),
-    ("Smallville",          ["smallville"]),
-]
-
-
-def infer_franchise(title):
-    """Return a franchise group name for a show title (for visual grouping)."""
-    l = (title or "").lower()
-    for grp, patterns in FRANCHISE_RULES:
-        if any(p in l for p in patterns):
-            return grp
-    return "Other"
 
 
 def _query_links(params_base):
@@ -155,7 +99,7 @@ def orchestrator():
     node_set = set(shows)
     print(f"Found {len(shows)} shows.")
 
-    nodes = [{"id": title, "label": title, "group": infer_franchise(title)} for title in shows]
+    nodes = [{"id": title, "label": title} for title in shows]
     edges = []
     seen_edges = set()
 
