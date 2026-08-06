@@ -1,22 +1,2546 @@
 [
-  {"id": "St. Elsewhere", "label": "St. Elsewhere"},
-  {"id": "Cheers", "label": "Cheers"},
-  {"id": "Homicide: Life on the Street", "label": "Homicide: Life on the Street"},
-  {"id": "Law & Order", "label": "Law & Order"},
-  {"id": "Law & Order: Special Victims Unit", "label": "Law & Order: Special Victims Unit"},
-  {"id": "Law & Order: Criminal Intent", "label": "Law & Order: Criminal Intent"},
-  {"id": "The X-Files", "label": "The X-Files"},
-  {"id": "The Wire", "label": "The Wire"},
-  {"id": "ER", "label": "ER"},
-  {"id": "Chicago Hope", "label": "Chicago Hope"},
-  {"id": "Frasier", "label": "Frasier"},
-  {"id": "Wings", "label": "Wings"},
-  {"id": "The Simpsons", "label": "The Simpsons"},
-  {"id": "Oz", "label": "Oz"},
-  {"id": "Arrested Development", "label": "Arrested Development"},
-  {"id": "24", "label": "24"},
-  {"id": "NCIS", "label": "NCIS"},
-  {"id": "JAG", "label": "JAG"},
-  {"id": "Quincy, M.E.", "label": "Quincy, M.E."},
-  {"id": "L.A. Law", "label": "L.A. Law"}
+  {
+    "id": "24",
+    "label": "24"
+  },
+  {
+    "id": "24: Legacy",
+    "label": "24: Legacy"
+  },
+  {
+    "id": "30 Days of Night",
+    "label": "30 Days of Night"
+  },
+  {
+    "id": "30 Rock",
+    "label": "30 Rock"
+  },
+  {
+    "id": "704 Hauser",
+    "label": "704 Hauser"
+  },
+  {
+    "id": "90210",
+    "label": "90210"
+  },
+  {
+    "id": "A Different World",
+    "label": "A Different World"
+  },
+  {
+    "id": "A.N.T. Farm",
+    "label": "A.N.T. Farm"
+  },
+  {
+    "id": "ALF",
+    "label": "ALF"
+  },
+  {
+    "id": "Accidentally on Purpose",
+    "label": "Accidentally on Purpose"
+  },
+  {
+    "id": "Adam-12",
+    "label": "Adam-12"
+  },
+  {
+    "id": "AfterMASH",
+    "label": "AfterMASH"
+  },
+  {
+    "id": "Agent Carter",
+    "label": "Agent Carter"
+  },
+  {
+    "id": "Agents of Shield",
+    "label": "Agents of Shield"
+  },
+  {
+    "id": "Airport 1975",
+    "label": "Airport 1975"
+  },
+  {
+    "id": "Alias",
+    "label": "Alias"
+  },
+  {
+    "id": "All My Children",
+    "label": "All My Children"
+  },
+  {
+    "id": "All in the Family",
+    "label": "All in the Family"
+  },
+  {
+    "id": "Ally",
+    "label": "Ally"
+  },
+  {
+    "id": "Ally McBeal",
+    "label": "Ally McBeal"
+  },
+  {
+    "id": "Alphas",
+    "label": "Alphas"
+  },
+  {
+    "id": "American Horror Story",
+    "label": "American Horror Story"
+  },
+  {
+    "id": "Andy Barker P.I.",
+    "label": "Andy Barker P.I."
+  },
+  {
+    "id": "Angels",
+    "label": "Angels"
+  },
+  {
+    "id": "Anger Management",
+    "label": "Anger Management"
+  },
+  {
+    "id": "Another World",
+    "label": "Another World"
+  },
+  {
+    "id": "Archie Bunker's Place",
+    "label": "Archie Bunker's Place"
+  },
+  {
+    "id": "Arrested Development",
+    "label": "Arrested Development"
+  },
+  {
+    "id": "Arrow",
+    "label": "Arrow"
+  },
+  {
+    "id": "As the World Turns",
+    "label": "As the World Turns"
+  },
+  {
+    "id": "Austin & Ally",
+    "label": "Austin & Ally"
+  },
+  {
+    "id": "Austin and Ally",
+    "label": "Austin and Ally"
+  },
+  {
+    "id": "Awkward",
+    "label": "Awkward"
+  },
+  {
+    "id": "Bat Woman",
+    "label": "Bat Woman"
+  },
+  {
+    "id": "Batman (1966-1968)",
+    "label": "Batman (1966-1968)"
+  },
+  {
+    "id": "Battlestar Galactica (1978)",
+    "label": "Battlestar Galactica (1978)"
+  },
+  {
+    "id": "Beat",
+    "label": "Beat"
+  },
+  {
+    "id": "Beauty and the Beast",
+    "label": "Beauty and the Beast"
+  },
+  {
+    "id": "Becker",
+    "label": "Becker"
+  },
+  {
+    "id": "Benson",
+    "label": "Benson"
+  },
+  {
+    "id": "Best Friends Whenever",
+    "label": "Best Friends Whenever"
+  },
+  {
+    "id": "Better Call Saul",
+    "label": "Better Call Saul"
+  },
+  {
+    "id": "Beverly Hill Bluntz",
+    "label": "Beverly Hill Bluntz"
+  },
+  {
+    "id": "Beverly Hills, 90210",
+    "label": "Beverly Hills, 90210"
+  },
+  {
+    "id": "Bewitched",
+    "label": "Bewitched"
+  },
+  {
+    "id": "Beyond Borders",
+    "label": "Beyond Borders"
+  },
+  {
+    "id": "Big Time Rush",
+    "label": "Big Time Rush"
+  },
+  {
+    "id": "Black Lightning",
+    "label": "Black Lightning"
+  },
+  {
+    "id": "Black Mirror",
+    "label": "Black Mirror"
+  },
+  {
+    "id": "Blansky's Beauties",
+    "label": "Blansky's Beauties"
+  },
+  {
+    "id": "Blossom",
+    "label": "Blossom"
+  },
+  {
+    "id": "Blue Bloods",
+    "label": "Blue Bloods"
+  },
+  {
+    "id": "Blue Mountain State",
+    "label": "Blue Mountain State"
+  },
+  {
+    "id": "Blue Skies",
+    "label": "Blue Skies"
+  },
+  {
+    "id": "Bob",
+    "label": "Bob"
+  },
+  {
+    "id": "Bob (CBS)",
+    "label": "Bob (CBS)"
+  },
+  {
+    "id": "Bones",
+    "label": "Bones"
+  },
+  {
+    "id": "Boston Legal",
+    "label": "Boston Legal"
+  },
+  {
+    "id": "Boston Public",
+    "label": "Boston Public"
+  },
+  {
+    "id": "Boy Meets World",
+    "label": "Boy Meets World"
+  },
+  {
+    "id": "Breaking Bad",
+    "label": "Breaking Bad"
+  },
+  {
+    "id": "Breakout Kings",
+    "label": "Breakout Kings"
+  },
+  {
+    "id": "Brooklyn 99",
+    "label": "Brooklyn 99"
+  },
+  {
+    "id": "Buddies",
+    "label": "Buddies"
+  },
+  {
+    "id": "Buffy the Vampire Slayer",
+    "label": "Buffy the Vampire Slayer"
+  },
+  {
+    "id": "Bunk'd",
+    "label": "Bunk'd"
+  },
+  {
+    "id": "Burke's Law (1960's)",
+    "label": "Burke's Law (1960's)"
+  },
+  {
+    "id": "Burke's Law (1990's)",
+    "label": "Burke's Law (1990's)"
+  },
+  {
+    "id": "Burn Notice",
+    "label": "Burn Notice"
+  },
+  {
+    "id": "CHiPs",
+    "label": "CHiPs"
+  },
+  {
+    "id": "CSI",
+    "label": "CSI"
+  },
+  {
+    "id": "CSI: Cyber",
+    "label": "CSI: Cyber"
+  },
+  {
+    "id": "CSI: Miami",
+    "label": "CSI: Miami"
+  },
+  {
+    "id": "CSI: New York",
+    "label": "CSI: New York"
+  },
+  {
+    "id": "Californication",
+    "label": "Californication"
+  },
+  {
+    "id": "Can't Hurry Love",
+    "label": "Can't Hurry Love"
+  },
+  {
+    "id": "Caprica",
+    "label": "Caprica"
+  },
+  {
+    "id": "Caroline in the City",
+    "label": "Caroline in the City"
+  },
+  {
+    "id": "Castle",
+    "label": "Castle"
+  },
+  {
+    "id": "Charlie's Angels",
+    "label": "Charlie's Angels"
+  },
+  {
+    "id": "Checking In",
+    "label": "Checking In"
+  },
+  {
+    "id": "Cheers",
+    "label": "Cheers"
+  },
+  {
+    "id": "Chelmsford 123",
+    "label": "Chelmsford 123"
+  },
+  {
+    "id": "Chicago Fire",
+    "label": "Chicago Fire"
+  },
+  {
+    "id": "Chicago Hope",
+    "label": "Chicago Hope"
+  },
+  {
+    "id": "Chicago Justice",
+    "label": "Chicago Justice"
+  },
+  {
+    "id": "Chicago Med",
+    "label": "Chicago Med"
+  },
+  {
+    "id": "Chicago PD",
+    "label": "Chicago PD"
+  },
+  {
+    "id": "Chuck",
+    "label": "Chuck"
+  },
+  {
+    "id": "City of Angels",
+    "label": "City of Angels"
+  },
+  {
+    "id": "Civil Wars",
+    "label": "Civil Wars"
+  },
+  {
+    "id": "Class",
+    "label": "Class"
+  },
+  {
+    "id": "Cloak and Dagger",
+    "label": "Cloak and Dagger"
+  },
+  {
+    "id": "Clueless",
+    "label": "Clueless"
+  },
+  {
+    "id": "Coach (ABC)",
+    "label": "Coach (ABC)"
+  },
+  {
+    "id": "Code of Vengeance",
+    "label": "Code of Vengeance"
+  },
+  {
+    "id": "Cold Case",
+    "label": "Cold Case"
+  },
+  {
+    "id": "Colony",
+    "label": "Colony"
+  },
+  {
+    "id": "Columbo",
+    "label": "Columbo"
+  },
+  {
+    "id": "Community",
+    "label": "Community"
+  },
+  {
+    "id": "Constantine",
+    "label": "Constantine"
+  },
+  {
+    "id": "Conviction",
+    "label": "Conviction"
+  },
+  {
+    "id": "Cop Rock",
+    "label": "Cop Rock"
+  },
+  {
+    "id": "Cory in the House",
+    "label": "Cory in the House"
+  },
+  {
+    "id": "Cosby",
+    "label": "Cosby"
+  },
+  {
+    "id": "Cougar Town",
+    "label": "Cougar Town"
+  },
+  {
+    "id": "Crazy Ex Girlfriend",
+    "label": "Crazy Ex Girlfriend"
+  },
+  {
+    "id": "Criminal Minds",
+    "label": "Criminal Minds"
+  },
+  {
+    "id": "Crossing Jordan",
+    "label": "Crossing Jordan"
+  },
+  {
+    "id": "Dare Devil",
+    "label": "Dare Devil"
+  },
+  {
+    "id": "Day by Day",
+    "label": "Day by Day"
+  },
+  {
+    "id": "Days of Our Lives",
+    "label": "Days of Our Lives"
+  },
+  {
+    "id": "Dead Like Me",
+    "label": "Dead Like Me"
+  },
+  {
+    "id": "Deadline",
+    "label": "Deadline"
+  },
+  {
+    "id": "Degrassi High",
+    "label": "Degrassi High"
+  },
+  {
+    "id": "Degrassi Junior High",
+    "label": "Degrassi Junior High"
+  },
+  {
+    "id": "Degrassi: Next Class",
+    "label": "Degrassi: Next Class"
+  },
+  {
+    "id": "Degrassi: Next Generation",
+    "label": "Degrassi: Next Generation"
+  },
+  {
+    "id": "Dennis the Menace",
+    "label": "Dennis the Menace"
+  },
+  {
+    "id": "Designated Survivor",
+    "label": "Designated Survivor"
+  },
+  {
+    "id": "Dexter",
+    "label": "Dexter"
+  },
+  {
+    "id": "Dharma and Greg",
+    "label": "Dharma and Greg"
+  },
+  {
+    "id": "Diagnosis: Murder",
+    "label": "Diagnosis: Murder"
+  },
+  {
+    "id": "Different Strokes",
+    "label": "Different Strokes"
+  },
+  {
+    "id": "Doctor Who",
+    "label": "Doctor Who"
+  },
+  {
+    "id": "Dog with a Blog",
+    "label": "Dog with a Blog"
+  },
+  {
+    "id": "Doll House",
+    "label": "Doll House"
+  },
+  {
+    "id": "Doom Patrol",
+    "label": "Doom Patrol"
+  },
+  {
+    "id": "Double Rush",
+    "label": "Double Rush"
+  },
+  {
+    "id": "Dr. Ken",
+    "label": "Dr. Ken"
+  },
+  {
+    "id": "Dragnet",
+    "label": "Dragnet"
+  },
+  {
+    "id": "Dragnet 1967",
+    "label": "Dragnet 1967"
+  },
+  {
+    "id": "Drake and Josh",
+    "label": "Drake and Josh"
+  },
+  {
+    "id": "Dunder-Mifflin",
+    "label": "Dunder-Mifflin"
+  },
+  {
+    "id": "ER",
+    "label": "ER"
+  },
+  {
+    "id": "ER (1994)",
+    "label": "ER (1994)"
+  },
+  {
+    "id": "Early Edition",
+    "label": "Early Edition"
+  },
+  {
+    "id": "Eastenders",
+    "label": "Eastenders"
+  },
+  {
+    "id": "Eerie, Indiana",
+    "label": "Eerie, Indiana"
+  },
+  {
+    "id": "Eerie, Indiana: The Other Dimension",
+    "label": "Eerie, Indiana: The Other Dimension"
+  },
+  {
+    "id": "Eli Stone",
+    "label": "Eli Stone"
+  },
+  {
+    "id": "Ellen (1997)",
+    "label": "Ellen (1997)"
+  },
+  {
+    "id": "Emergency",
+    "label": "Emergency"
+  },
+  {
+    "id": "Empty Nest",
+    "label": "Empty Nest"
+  },
+  {
+    "id": "Eureka",
+    "label": "Eureka"
+  },
+  {
+    "id": "Everybody Hates Chris",
+    "label": "Everybody Hates Chris"
+  },
+  {
+    "id": "Everybody Loves Raymond",
+    "label": "Everybody Loves Raymond"
+  },
+  {
+    "id": "Falcon & Winter Soldier",
+    "label": "Falcon & Winter Soldier"
+  },
+  {
+    "id": "Family Matters",
+    "label": "Family Matters"
+  },
+  {
+    "id": "Family Ties",
+    "label": "Family Ties"
+  },
+  {
+    "id": "Fantasy Island",
+    "label": "Fantasy Island"
+  },
+  {
+    "id": "Fargo",
+    "label": "Fargo"
+  },
+  {
+    "id": "Father Knows Best",
+    "label": "Father Knows Best"
+  },
+  {
+    "id": "Fear of the Walking Dead",
+    "label": "Fear of the Walking Dead"
+  },
+  {
+    "id": "Felony Squad",
+    "label": "Felony Squad"
+  },
+  {
+    "id": "Firefly",
+    "label": "Firefly"
+  },
+  {
+    "id": "First Monday",
+    "label": "First Monday"
+  },
+  {
+    "id": "Flash",
+    "label": "Flash"
+  },
+  {
+    "id": "Flash Forward",
+    "label": "Flash Forward"
+  },
+  {
+    "id": "Flipper",
+    "label": "Flipper"
+  },
+  {
+    "id": "Frasier",
+    "label": "Frasier"
+  },
+  {
+    "id": "Freedom Fighters: The Ray",
+    "label": "Freedom Fighters: The Ray"
+  },
+  {
+    "id": "Friends",
+    "label": "Friends"
+  },
+  {
+    "id": "Fringe",
+    "label": "Fringe"
+  },
+  {
+    "id": "Full House",
+    "label": "Full House"
+  },
+  {
+    "id": "Fuller House",
+    "label": "Fuller House"
+  },
+  {
+    "id": "Further Tales of the City",
+    "label": "Further Tales of the City"
+  },
+  {
+    "id": "Galactica (1980)",
+    "label": "Galactica (1980)"
+  },
+  {
+    "id": "Game Shakers",
+    "label": "Game Shakers"
+  },
+  {
+    "id": "Gamer's Guide to Pretty Much Everything",
+    "label": "Gamer's Guide to Pretty Much Everything"
+  },
+  {
+    "id": "General Hospital",
+    "label": "General Hospital"
+  },
+  {
+    "id": "General Hospital: Night Shift",
+    "label": "General Hospital: Night Shift"
+  },
+  {
+    "id": "George and Leo",
+    "label": "George and Leo"
+  },
+  {
+    "id": "George and Mildred",
+    "label": "George and Mildred"
+  },
+  {
+    "id": "Get Smart",
+    "label": "Get Smart"
+  },
+  {
+    "id": "Get Smart (1995)",
+    "label": "Get Smart (1995)"
+  },
+  {
+    "id": "Ghost Whisperer",
+    "label": "Ghost Whisperer"
+  },
+  {
+    "id": "Gideon's Crossing",
+    "label": "Gideon's Crossing"
+  },
+  {
+    "id": "Gidget",
+    "label": "Gidget"
+  },
+  {
+    "id": "Gilligan's Island",
+    "label": "Gilligan's Island"
+  },
+  {
+    "id": "Gilmore Girls",
+    "label": "Gilmore Girls"
+  },
+  {
+    "id": "Girl Meets World",
+    "label": "Girl Meets World"
+  },
+  {
+    "id": "Girlfriends",
+    "label": "Girlfriends"
+  },
+  {
+    "id": "Glee",
+    "label": "Glee"
+  },
+  {
+    "id": "Gloria",
+    "label": "Gloria"
+  },
+  {
+    "id": "Goliath",
+    "label": "Goliath"
+  },
+  {
+    "id": "Gomer Pyle, U.S.M.C",
+    "label": "Gomer Pyle, U.S.M.C"
+  },
+  {
+    "id": "Goober and the Truckers Paradise",
+    "label": "Goober and the Truckers Paradise"
+  },
+  {
+    "id": "Good Girls",
+    "label": "Good Girls"
+  },
+  {
+    "id": "Good Luck Charlie",
+    "label": "Good Luck Charlie"
+  },
+  {
+    "id": "Good Omens",
+    "label": "Good Omens"
+  },
+  {
+    "id": "Good Times",
+    "label": "Good Times"
+  },
+  {
+    "id": "Grace Under Fire",
+    "label": "Grace Under Fire"
+  },
+  {
+    "id": "Green Acres",
+    "label": "Green Acres"
+  },
+  {
+    "id": "Grey's Anatomy",
+    "label": "Grey's Anatomy"
+  },
+  {
+    "id": "Grey's Anatomy: B-Team",
+    "label": "Grey's Anatomy: B-Team"
+  },
+  {
+    "id": "Guiding Light",
+    "label": "Guiding Light"
+  },
+  {
+    "id": "Hanging In",
+    "label": "Hanging In"
+  },
+  {
+    "id": "Hanging with Mr. Cooper",
+    "label": "Hanging with Mr. Cooper"
+  },
+  {
+    "id": "Hannah Montana",
+    "label": "Hannah Montana"
+  },
+  {
+    "id": "Hannibal",
+    "label": "Hannibal"
+  },
+  {
+    "id": "Happy Days",
+    "label": "Happy Days"
+  },
+  {
+    "id": "Hart of Dixie",
+    "label": "Hart of Dixie"
+  },
+  {
+    "id": "Hart to Hart",
+    "label": "Hart to Hart"
+  },
+  {
+    "id": "Haven",
+    "label": "Haven"
+  },
+  {
+    "id": "Hawaii Five-0",
+    "label": "Hawaii Five-0"
+  },
+  {
+    "id": "Hawaii Five-O",
+    "label": "Hawaii Five-O"
+  },
+  {
+    "id": "Hazel",
+    "label": "Hazel"
+  },
+  {
+    "id": "Heart of Dixie",
+    "label": "Heart of Dixie"
+  },
+  {
+    "id": "Hello, Larry",
+    "label": "Hello, Larry"
+  },
+  {
+    "id": "Helstrom",
+    "label": "Helstrom"
+  },
+  {
+    "id": "Henry Danger",
+    "label": "Henry Danger"
+  },
+  {
+    "id": "Here's Lucy",
+    "label": "Here's Lucy"
+  },
+  {
+    "id": "Herman's Head",
+    "label": "Herman's Head"
+  },
+  {
+    "id": "Heroes",
+    "label": "Heroes"
+  },
+  {
+    "id": "Heroes Reborn",
+    "label": "Heroes Reborn"
+  },
+  {
+    "id": "Hi Honey, I'm Home!",
+    "label": "Hi Honey, I'm Home!"
+  },
+  {
+    "id": "High Society",
+    "label": "High Society"
+  },
+  {
+    "id": "Hill Street Blues",
+    "label": "Hill Street Blues"
+  },
+  {
+    "id": "Hogan's Heroes",
+    "label": "Hogan's Heroes"
+  },
+  {
+    "id": "Home Improvement",
+    "label": "Home Improvement"
+  },
+  {
+    "id": "Home Land",
+    "label": "Home Land"
+  },
+  {
+    "id": "Homicide: Life on the Street",
+    "label": "Homicide: Life on the Street"
+  },
+  {
+    "id": "Honey West",
+    "label": "Honey West"
+  },
+  {
+    "id": "Hope and Gloria",
+    "label": "Hope and Gloria"
+  },
+  {
+    "id": "House of Payne",
+    "label": "House of Payne"
+  },
+  {
+    "id": "How I Met Your Mother",
+    "label": "How I Met Your Mother"
+  },
+  {
+    "id": "How to Get Away with Murder",
+    "label": "How to Get Away with Murder"
+  },
+  {
+    "id": "How to Rock",
+    "label": "How to Rock"
+  },
+  {
+    "id": "Huff",
+    "label": "Huff"
+  },
+  {
+    "id": "Hunter (1984)",
+    "label": "Hunter (1984)"
+  },
+  {
+    "id": "I Didn't Do It",
+    "label": "I Didn't Do It"
+  },
+  {
+    "id": "I Dream of Jeanie",
+    "label": "I Dream of Jeanie"
+  },
+  {
+    "id": "I Love Lucy",
+    "label": "I Love Lucy"
+  },
+  {
+    "id": "I'm in the Band",
+    "label": "I'm in the Band"
+  },
+  {
+    "id": "Icarly",
+    "label": "Icarly"
+  },
+  {
+    "id": "In Plain Sight",
+    "label": "In Plain Sight"
+  },
+  {
+    "id": "In the House",
+    "label": "In the House"
+  },
+  {
+    "id": "Inhumans",
+    "label": "Inhumans"
+  },
+  {
+    "id": "Ink (CBS)",
+    "label": "Ink (CBS)"
+  },
+  {
+    "id": "Instant Mom",
+    "label": "Instant Mom"
+  },
+  {
+    "id": "Iron Fist",
+    "label": "Iron Fist"
+  },
+  {
+    "id": "It's Always Sunny in Philadelphia",
+    "label": "It's Always Sunny in Philadelphia"
+  },
+  {
+    "id": "JAG",
+    "label": "JAG"
+  },
+  {
+    "id": "Jake 2.0",
+    "label": "Jake 2.0"
+  },
+  {
+    "id": "Jake and the Fatman",
+    "label": "Jake and the Fatman"
+  },
+  {
+    "id": "Jessica Jones",
+    "label": "Jessica Jones"
+  },
+  {
+    "id": "Jessie",
+    "label": "Jessie"
+  },
+  {
+    "id": "Jo",
+    "label": "Jo"
+  },
+  {
+    "id": "Joanie Loves Chachi",
+    "label": "Joanie Loves Chachi"
+  },
+  {
+    "id": "Joey",
+    "label": "Joey"
+  },
+  {
+    "id": "Journeyman",
+    "label": "Journeyman"
+  },
+  {
+    "id": "Judd, for the Defense",
+    "label": "Judd, for the Defense"
+  },
+  {
+    "id": "Judging Amy",
+    "label": "Judging Amy"
+  },
+  {
+    "id": "Julia",
+    "label": "Julia"
+  },
+  {
+    "id": "Justified",
+    "label": "Justified"
+  },
+  {
+    "id": "K-9 and Company",
+    "label": "K-9 and Company"
+  },
+  {
+    "id": "K.C. Undercover",
+    "label": "K.C. Undercover"
+  },
+  {
+    "id": "Karen Sisco",
+    "label": "Karen Sisco"
+  },
+  {
+    "id": "Katy Keene",
+    "label": "Katy Keene"
+  },
+  {
+    "id": "Kickin' It",
+    "label": "Kickin' It"
+  },
+  {
+    "id": "Kid of Degrassi Street",
+    "label": "Kid of Degrassi Street"
+  },
+  {
+    "id": "Killer Instinct",
+    "label": "Killer Instinct"
+  },
+  {
+    "id": "Kingdom",
+    "label": "Kingdom"
+  },
+  {
+    "id": "Kingdom Hospital",
+    "label": "Kingdom Hospital"
+  },
+  {
+    "id": "Kirby Buckets",
+    "label": "Kirby Buckets"
+  },
+  {
+    "id": "Knight Rider",
+    "label": "Knight Rider"
+  },
+  {
+    "id": "Knight Squad",
+    "label": "Knight Squad"
+  },
+  {
+    "id": "L.A. Law",
+    "label": "L.A. Law"
+  },
+  {
+    "id": "LAX",
+    "label": "LAX"
+  },
+  {
+    "id": "Lab Rats",
+    "label": "Lab Rats"
+  },
+  {
+    "id": "Lab Rats: Elite Force",
+    "label": "Lab Rats: Elite Force"
+  },
+  {
+    "id": "Las Vegas",
+    "label": "Las Vegas"
+  },
+  {
+    "id": "Laverne and Shirley",
+    "label": "Laverne and Shirley"
+  },
+  {
+    "id": "Law & Order",
+    "label": "Law & Order"
+  },
+  {
+    "id": "Law & Order: Criminal Intent",
+    "label": "Law & Order: Criminal Intent"
+  },
+  {
+    "id": "Law & Order: LA",
+    "label": "Law & Order: LA"
+  },
+  {
+    "id": "Law & Order: Special Victims Unit",
+    "label": "Law & Order: Special Victims Unit"
+  },
+  {
+    "id": "Law & Order: UK",
+    "label": "Law & Order: UK"
+  },
+  {
+    "id": "Leave It to Beaver",
+    "label": "Leave It to Beaver"
+  },
+  {
+    "id": "Legends of Tomorrow",
+    "label": "Legends of Tomorrow"
+  },
+  {
+    "id": "Legit",
+    "label": "Legit"
+  },
+  {
+    "id": "Lethal Weapon (2016)",
+    "label": "Lethal Weapon (2016)"
+  },
+  {
+    "id": "Lie to Me",
+    "label": "Lie to Me"
+  },
+  {
+    "id": "Life",
+    "label": "Life"
+  },
+  {
+    "id": "Liv and Maddie",
+    "label": "Liv and Maddie"
+  },
+  {
+    "id": "Loki",
+    "label": "Loki"
+  },
+  {
+    "id": "Lone Gunman",
+    "label": "Lone Gunman"
+  },
+  {
+    "id": "Lone Gunmen",
+    "label": "Lone Gunmen"
+  },
+  {
+    "id": "Longmire",
+    "label": "Longmire"
+  },
+  {
+    "id": "Lost",
+    "label": "Lost"
+  },
+  {
+    "id": "Lou Grant",
+    "label": "Lou Grant"
+  },
+  {
+    "id": "Love and War",
+    "label": "Love and War"
+  },
+  {
+    "id": "Love, American Style",
+    "label": "Love, American Style"
+  },
+  {
+    "id": "Lovers and Friends",
+    "label": "Lovers and Friends"
+  },
+  {
+    "id": "Loving",
+    "label": "Loving"
+  },
+  {
+    "id": "Lucifer",
+    "label": "Lucifer"
+  },
+  {
+    "id": "Luke Cage",
+    "label": "Luke Cage"
+  },
+  {
+    "id": "Luther",
+    "label": "Luther"
+  },
+  {
+    "id": "M*A*S*H",
+    "label": "M*A*S*H"
+  },
+  {
+    "id": "MCU",
+    "label": "MCU"
+  },
+  {
+    "id": "MacGyver",
+    "label": "MacGyver"
+  },
+  {
+    "id": "Mad About You",
+    "label": "Mad About You"
+  },
+  {
+    "id": "Mad Men",
+    "label": "Mad Men"
+  },
+  {
+    "id": "Madman of the People",
+    "label": "Madman of the People"
+  },
+  {
+    "id": "Magnum PI",
+    "label": "Magnum PI"
+  },
+  {
+    "id": "Make Room for Daddy",
+    "label": "Make Room for Daddy"
+  },
+  {
+    "id": "Make Room for Granddaddy",
+    "label": "Make Room for Granddaddy"
+  },
+  {
+    "id": "Malcolm in the Middle",
+    "label": "Malcolm in the Middle"
+  },
+  {
+    "id": "Man About the House",
+    "label": "Man About the House"
+  },
+  {
+    "id": "Mannix",
+    "label": "Mannix"
+  },
+  {
+    "id": "Married... with Children",
+    "label": "Married... with Children"
+  },
+  {
+    "id": "Martial Law",
+    "label": "Martial Law"
+  },
+  {
+    "id": "Martin",
+    "label": "Martin"
+  },
+  {
+    "id": "Marvin Marvin",
+    "label": "Marvin Marvin"
+  },
+  {
+    "id": "Matlock",
+    "label": "Matlock"
+  },
+  {
+    "id": "Matt Houston",
+    "label": "Matt Houston"
+  },
+  {
+    "id": "Maude",
+    "label": "Maude"
+  },
+  {
+    "id": "Mayberry R.F.D",
+    "label": "Mayberry R.F.D"
+  },
+  {
+    "id": "Medical Investigations",
+    "label": "Medical Investigations"
+  },
+  {
+    "id": "Medium",
+    "label": "Medium"
+  },
+  {
+    "id": "Meego",
+    "label": "Meego"
+  },
+  {
+    "id": "Melissa and Joey",
+    "label": "Melissa and Joey"
+  },
+  {
+    "id": "Melrose Place",
+    "label": "Melrose Place"
+  },
+  {
+    "id": "Method and Red",
+    "label": "Method and Red"
+  },
+  {
+    "id": "Miami Vice",
+    "label": "Miami Vice"
+  },
+  {
+    "id": "Mighty Med",
+    "label": "Mighty Med"
+  },
+  {
+    "id": "Millennium",
+    "label": "Millennium"
+  },
+  {
+    "id": "Milo Murphy's Law",
+    "label": "Milo Murphy's Law"
+  },
+  {
+    "id": "Mission Magic",
+    "label": "Mission Magic"
+  },
+  {
+    "id": "Mission: Impossible (1966)",
+    "label": "Mission: Impossible (1966)"
+  },
+  {
+    "id": "Mission: Impossible (1988)",
+    "label": "Mission: Impossible (1988)"
+  },
+  {
+    "id": "Mister Ed",
+    "label": "Mister Ed"
+  },
+  {
+    "id": "Mockingbird Lane",
+    "label": "Mockingbird Lane"
+  },
+  {
+    "id": "Models, Inc",
+    "label": "Models, Inc"
+  },
+  {
+    "id": "Modern Family",
+    "label": "Modern Family"
+  },
+  {
+    "id": "Moesha",
+    "label": "Moesha"
+  },
+  {
+    "id": "Monk",
+    "label": "Monk"
+  },
+  {
+    "id": "Moonlighting",
+    "label": "Moonlighting"
+  },
+  {
+    "id": "More Tales of the City",
+    "label": "More Tales of the City"
+  },
+  {
+    "id": "Mork and Mindy",
+    "label": "Mork and Mindy"
+  },
+  {
+    "id": "Mr. Mercedes",
+    "label": "Mr. Mercedes"
+  },
+  {
+    "id": "Mr. Moseby (Suite Life Series)",
+    "label": "Mr. Moseby (Suite Life Series)"
+  },
+  {
+    "id": "Mr. Robot",
+    "label": "Mr. Robot"
+  },
+  {
+    "id": "Mrs. Columbo",
+    "label": "Mrs. Columbo"
+  },
+  {
+    "id": "Munster Go Home",
+    "label": "Munster Go Home"
+  },
+  {
+    "id": "Murder She Wrote",
+    "label": "Murder She Wrote"
+  },
+  {
+    "id": "Murphy Brown",
+    "label": "Murphy Brown"
+  },
+  {
+    "id": "My Mother the Car",
+    "label": "My Mother the Car"
+  },
+  {
+    "id": "My Name Is Earl",
+    "label": "My Name Is Earl"
+  },
+  {
+    "id": "NCIS",
+    "label": "NCIS"
+  },
+  {
+    "id": "NCIS LA",
+    "label": "NCIS LA"
+  },
+  {
+    "id": "NCIS NO",
+    "label": "NCIS NO"
+  },
+  {
+    "id": "NCIS: New Orleans",
+    "label": "NCIS: New Orleans"
+  },
+  {
+    "id": "NYPD Blue",
+    "label": "NYPD Blue"
+  },
+  {
+    "id": "Naked City",
+    "label": "Naked City"
+  },
+  {
+    "id": "Nash Bridges",
+    "label": "Nash Bridges"
+  },
+  {
+    "id": "New Amsterdam",
+    "label": "New Amsterdam"
+  },
+  {
+    "id": "New Girl",
+    "label": "New Girl"
+  },
+  {
+    "id": "New York Undercover",
+    "label": "New York Undercover"
+  },
+  {
+    "id": "Newhart",
+    "label": "Newhart"
+  },
+  {
+    "id": "Nikki",
+    "label": "Nikki"
+  },
+  {
+    "id": "Ninja Turtles: The Next Mutation",
+    "label": "Ninja Turtles: The Next Mutation"
+  },
+  {
+    "id": "Nip/Tuck",
+    "label": "Nip/Tuck"
+  },
+  {
+    "id": "OZ",
+    "label": "OZ"
+  },
+  {
+    "id": "Once Upon a Time",
+    "label": "Once Upon a Time"
+  },
+  {
+    "id": "Once Upon a Time: In Wonderland",
+    "label": "Once Upon a Time: In Wonderland"
+  },
+  {
+    "id": "One Life to Live",
+    "label": "One Life to Live"
+  },
+  {
+    "id": "Orange Is the New Black",
+    "label": "Orange Is the New Black"
+  },
+  {
+    "id": "Our Private World",
+    "label": "Our Private World"
+  },
+  {
+    "id": "Out All Night",
+    "label": "Out All Night"
+  },
+  {
+    "id": "Out of the Blue",
+    "label": "Out of the Blue"
+  },
+  {
+    "id": "Pair of Kings",
+    "label": "Pair of Kings"
+  },
+  {
+    "id": "Parker Lewis Can't Lose",
+    "label": "Parker Lewis Can't Lose"
+  },
+  {
+    "id": "Parks and Rec",
+    "label": "Parks and Rec"
+  },
+  {
+    "id": "Parks and Recreation",
+    "label": "Parks and Recreation"
+  },
+  {
+    "id": "Party of Five",
+    "label": "Party of Five"
+  },
+  {
+    "id": "Passions",
+    "label": "Passions"
+  },
+  {
+    "id": "Perfect Strangers",
+    "label": "Perfect Strangers"
+  },
+  {
+    "id": "Perry Mason",
+    "label": "Perry Mason"
+  },
+  {
+    "id": "Phineas and Ferb",
+    "label": "Phineas and Ferb"
+  },
+  {
+    "id": "Phyllis",
+    "label": "Phyllis"
+  },
+  {
+    "id": "Picket Fences",
+    "label": "Picket Fences"
+  },
+  {
+    "id": "Play It Again, Dick",
+    "label": "Play It Again, Dick"
+  },
+  {
+    "id": "Port Charles",
+    "label": "Port Charles"
+  },
+  {
+    "id": "Power Rangers",
+    "label": "Power Rangers"
+  },
+  {
+    "id": "Pretty Little Liars",
+    "label": "Pretty Little Liars"
+  },
+  {
+    "id": "Prison Break",
+    "label": "Prison Break"
+  },
+  {
+    "id": "Prison Break: Point of Innocence",
+    "label": "Prison Break: Point of Innocence"
+  },
+  {
+    "id": "Prison Break: Proof of Innocence",
+    "label": "Prison Break: Proof of Innocence"
+  },
+  {
+    "id": "Private Practice",
+    "label": "Private Practice"
+  },
+  {
+    "id": "Private Secretary",
+    "label": "Private Secretary"
+  },
+  {
+    "id": "Promise Land",
+    "label": "Promise Land"
+  },
+  {
+    "id": "Providence",
+    "label": "Providence"
+  },
+  {
+    "id": "Psycho",
+    "label": "Psycho"
+  },
+  {
+    "id": "Public Morals",
+    "label": "Public Morals"
+  },
+  {
+    "id": "Pushing Daisies",
+    "label": "Pushing Daisies"
+  },
+  {
+    "id": "Quantum Leap",
+    "label": "Quantum Leap"
+  },
+  {
+    "id": "Quincy, M.E.",
+    "label": "Quincy, M.E."
+  },
+  {
+    "id": "Raising Hope",
+    "label": "Raising Hope"
+  },
+  {
+    "id": "Raven's Home",
+    "label": "Raven's Home"
+  },
+  {
+    "id": "Ray Donovan",
+    "label": "Ray Donovan"
+  },
+  {
+    "id": "Reaper",
+    "label": "Reaper"
+  },
+  {
+    "id": "Red Dwarf",
+    "label": "Red Dwarf"
+  },
+  {
+    "id": "Remington Steele",
+    "label": "Remington Steele"
+  },
+  {
+    "id": "Rhoda",
+    "label": "Rhoda"
+  },
+  {
+    "id": "Riverdale",
+    "label": "Riverdale"
+  },
+  {
+    "id": "Rizzoli and Isles",
+    "label": "Rizzoli and Isles"
+  },
+  {
+    "id": "Rose Wood",
+    "label": "Rose Wood"
+  },
+  {
+    "id": "Roseanne",
+    "label": "Roseanne"
+  },
+  {
+    "id": "Run Aways",
+    "label": "Run Aways"
+  },
+  {
+    "id": "Running Wilde",
+    "label": "Running Wilde"
+  },
+  {
+    "id": "Ryan's Hope",
+    "label": "Ryan's Hope"
+  },
+  {
+    "id": "Sabrina the Teenage Witch",
+    "label": "Sabrina the Teenage Witch"
+  },
+  {
+    "id": "Sam and Cat",
+    "label": "Sam and Cat"
+  },
+  {
+    "id": "Sarah Jane Advent.",
+    "label": "Sarah Jane Advent."
+  },
+  {
+    "id": "Sarah Jane Adventures",
+    "label": "Sarah Jane Adventures"
+  },
+  {
+    "id": "Sarah Jane Alien Advent.",
+    "label": "Sarah Jane Alien Advent."
+  },
+  {
+    "id": "Sarah Jane: Alien Adventures",
+    "label": "Sarah Jane: Alien Adventures"
+  },
+  {
+    "id": "Saved by the Bell",
+    "label": "Saved by the Bell"
+  },
+  {
+    "id": "Saved by the Bell: College Years",
+    "label": "Saved by the Bell: College Years"
+  },
+  {
+    "id": "Saved by the Bell: Next Class",
+    "label": "Saved by the Bell: Next Class"
+  },
+  {
+    "id": "Saving Grace",
+    "label": "Saving Grace"
+  },
+  {
+    "id": "Scandal",
+    "label": "Scandal"
+  },
+  {
+    "id": "Scorpion",
+    "label": "Scorpion"
+  },
+  {
+    "id": "Scrubs",
+    "label": "Scrubs"
+  },
+  {
+    "id": "Search for Tomorrow",
+    "label": "Search for Tomorrow"
+  },
+  {
+    "id": "Seinfeld",
+    "label": "Seinfeld"
+  },
+  {
+    "id": "Shake It Up",
+    "label": "Shake It Up"
+  },
+  {
+    "id": "Shameless",
+    "label": "Shameless"
+  },
+  {
+    "id": "Sherlock",
+    "label": "Sherlock"
+  },
+  {
+    "id": "Shooter",
+    "label": "Shooter"
+  },
+  {
+    "id": "Sierra",
+    "label": "Sierra"
+  },
+  {
+    "id": "Silicon Valley",
+    "label": "Silicon Valley"
+  },
+  {
+    "id": "Silver Spoons",
+    "label": "Silver Spoons"
+  },
+  {
+    "id": "Simon and Simon",
+    "label": "Simon and Simon"
+  },
+  {
+    "id": "Single Guy",
+    "label": "Single Guy"
+  },
+  {
+    "id": "Sister, Sister",
+    "label": "Sister, Sister"
+  },
+  {
+    "id": "Six",
+    "label": "Six"
+  },
+  {
+    "id": "Sleepy Hollow",
+    "label": "Sleepy Hollow"
+  },
+  {
+    "id": "Soap",
+    "label": "Soap"
+  },
+  {
+    "id": "Somerset",
+    "label": "Somerset"
+  },
+  {
+    "id": "Something so Right",
+    "label": "Something so Right"
+  },
+  {
+    "id": "Sons of Anarchy",
+    "label": "Sons of Anarchy"
+  },
+  {
+    "id": "Sons of Thunder",
+    "label": "Sons of Thunder"
+  },
+  {
+    "id": "Sordid Lives",
+    "label": "Sordid Lives"
+  },
+  {
+    "id": "Soul Man",
+    "label": "Soul Man"
+  },
+  {
+    "id": "Space Above and Beyond",
+    "label": "Space Above and Beyond"
+  },
+  {
+    "id": "Space: 1999",
+    "label": "Space: 1999"
+  },
+  {
+    "id": "Special Unit 2",
+    "label": "Special Unit 2"
+  },
+  {
+    "id": "Spin City",
+    "label": "Spin City"
+  },
+  {
+    "id": "Sports Night",
+    "label": "Sports Night"
+  },
+  {
+    "id": "Square Pegs",
+    "label": "Square Pegs"
+  },
+  {
+    "id": "St. Elsewhere",
+    "label": "St. Elsewhere"
+  },
+  {
+    "id": "Star Trek",
+    "label": "Star Trek"
+  },
+  {
+    "id": "Star Trek: Deep Space Nine",
+    "label": "Star Trek: Deep Space Nine"
+  },
+  {
+    "id": "Star Trek: Discovery",
+    "label": "Star Trek: Discovery"
+  },
+  {
+    "id": "Star Trek: Enterprise",
+    "label": "Star Trek: Enterprise"
+  },
+  {
+    "id": "Star Trek: Picard",
+    "label": "Star Trek: Picard"
+  },
+  {
+    "id": "Star Trek: The Next Generation",
+    "label": "Star Trek: The Next Generation"
+  },
+  {
+    "id": "Star Trek: Voyager",
+    "label": "Star Trek: Voyager"
+  },
+  {
+    "id": "Stargate: Atlantis",
+    "label": "Stargate: Atlantis"
+  },
+  {
+    "id": "Stargate: Sg-1",
+    "label": "Stargate: Sg-1"
+  },
+  {
+    "id": "Stargate: Universe",
+    "label": "Stargate: Universe"
+  },
+  {
+    "id": "Station 19",
+    "label": "Station 19"
+  },
+  {
+    "id": "Station 51",
+    "label": "Station 51"
+  },
+  {
+    "id": "Step by Step",
+    "label": "Step by Step"
+  },
+  {
+    "id": "Strange Luck",
+    "label": "Strange Luck"
+  },
+  {
+    "id": "Super Girl",
+    "label": "Super Girl"
+  },
+  {
+    "id": "Supernatural",
+    "label": "Supernatural"
+  },
+  {
+    "id": "Suspected Behavior",
+    "label": "Suspected Behavior"
+  },
+  {
+    "id": "Switched at Birth",
+    "label": "Switched at Birth"
+  },
+  {
+    "id": "Tabitha",
+    "label": "Tabitha"
+  },
+  {
+    "id": "Tales of the City",
+    "label": "Tales of the City"
+  },
+  {
+    "id": "Tattingers",
+    "label": "Tattingers"
+  },
+  {
+    "id": "Team Knight Rider",
+    "label": "Team Knight Rider"
+  },
+  {
+    "id": "Teen Angel",
+    "label": "Teen Angel"
+  },
+  {
+    "id": "Terminator: The Sarah Connor Chronicles",
+    "label": "Terminator: The Sarah Connor Chronicles"
+  },
+  {
+    "id": "Texas",
+    "label": "Texas"
+  },
+  {
+    "id": "That 70's Show",
+    "label": "That 70's Show"
+  },
+  {
+    "id": "That 80's Show",
+    "label": "That 80's Show"
+  },
+  {
+    "id": "That's so Raven",
+    "label": "That's so Raven"
+  },
+  {
+    "id": "The A-Team",
+    "label": "The A-Team"
+  },
+  {
+    "id": "The Addam's Family",
+    "label": "The Addam's Family"
+  },
+  {
+    "id": "The Americans",
+    "label": "The Americans"
+  },
+  {
+    "id": "The Andy Griffith Show",
+    "label": "The Andy Griffith Show"
+  },
+  {
+    "id": "The Ann Sothern Show",
+    "label": "The Ann Sothern Show"
+  },
+  {
+    "id": "The Art of Being Nick",
+    "label": "The Art of Being Nick"
+  },
+  {
+    "id": "The Beverly Hillbillies",
+    "label": "The Beverly Hillbillies"
+  },
+  {
+    "id": "The Big Bang Theory",
+    "label": "The Big Bang Theory"
+  },
+  {
+    "id": "The Bill Dana Show",
+    "label": "The Bill Dana Show"
+  },
+  {
+    "id": "The Bionic Woman",
+    "label": "The Bionic Woman"
+  },
+  {
+    "id": "The Black List",
+    "label": "The Black List"
+  },
+  {
+    "id": "The Bob Cumming Show",
+    "label": "The Bob Cumming Show"
+  },
+  {
+    "id": "The Bob Cummings Show",
+    "label": "The Bob Cummings Show"
+  },
+  {
+    "id": "The Bob Newhart Show",
+    "label": "The Bob Newhart Show"
+  },
+  {
+    "id": "The Bold and the Beautiful",
+    "label": "The Bold and the Beautiful"
+  },
+  {
+    "id": "The Brady Brides",
+    "label": "The Brady Brides"
+  },
+  {
+    "id": "The Brady Bunch",
+    "label": "The Brady Bunch"
+  },
+  {
+    "id": "The Bradys",
+    "label": "The Bradys"
+  },
+  {
+    "id": "The Chilling Adventure of Sabrina",
+    "label": "The Chilling Adventure of Sabrina"
+  },
+  {
+    "id": "The City",
+    "label": "The City"
+  },
+  {
+    "id": "The Cosby Show",
+    "label": "The Cosby Show"
+  },
+  {
+    "id": "The D.A",
+    "label": "The D.A"
+  },
+  {
+    "id": "The Defender",
+    "label": "The Defender"
+  },
+  {
+    "id": "The Dick Van Dyke Show",
+    "label": "The Dick Van Dyke Show"
+  },
+  {
+    "id": "The Donna Reed Show",
+    "label": "The Donna Reed Show"
+  },
+  {
+    "id": "The Drew Carey Show",
+    "label": "The Drew Carey Show"
+  },
+  {
+    "id": "The Facts of Life",
+    "label": "The Facts of Life"
+  },
+  {
+    "id": "The Famous Teddy Z",
+    "label": "The Famous Teddy Z"
+  },
+  {
+    "id": "The Finder",
+    "label": "The Finder"
+  },
+  {
+    "id": "The Flying Nun",
+    "label": "The Flying Nun"
+  },
+  {
+    "id": "The Fresh Prince of Bel-Air",
+    "label": "The Fresh Prince of Bel-Air"
+  },
+  {
+    "id": "The Game",
+    "label": "The Game"
+  },
+  {
+    "id": "The Garry Shandling's Show",
+    "label": "The Garry Shandling's Show"
+  },
+  {
+    "id": "The Geena Davis Show",
+    "label": "The Geena Davis Show"
+  },
+  {
+    "id": "The George Burns and Gracie Allen Show",
+    "label": "The George Burns and Gracie Allen Show"
+  },
+  {
+    "id": "The Goldbergs",
+    "label": "The Goldbergs"
+  },
+  {
+    "id": "The Golden Girls",
+    "label": "The Golden Girls"
+  },
+  {
+    "id": "The Golden Palace",
+    "label": "The Golden Palace"
+  },
+  {
+    "id": "The Good Place",
+    "label": "The Good Place"
+  },
+  {
+    "id": "The Great Indoors",
+    "label": "The Great Indoors"
+  },
+  {
+    "id": "The Green Hornet",
+    "label": "The Green Hornet"
+  },
+  {
+    "id": "The Haunted Hathaways",
+    "label": "The Haunted Hathaways"
+  },
+  {
+    "id": "The Hitchhiker's Guide to the Galaxy",
+    "label": "The Hitchhiker's Guide to the Galaxy"
+  },
+  {
+    "id": "The Honey Mooners",
+    "label": "The Honey Mooners"
+  },
+  {
+    "id": "The Hughleys",
+    "label": "The Hughleys"
+  },
+  {
+    "id": "The Jackie Gleason Show",
+    "label": "The Jackie Gleason Show"
+  },
+  {
+    "id": "The Jeffersons",
+    "label": "The Jeffersons"
+  },
+  {
+    "id": "The Joey Bishop Show",
+    "label": "The Joey Bishop Show"
+  },
+  {
+    "id": "The John Larroquette Show",
+    "label": "The John Larroquette Show"
+  },
+  {
+    "id": "The King of Queens",
+    "label": "The King of Queens"
+  },
+  {
+    "id": "The Knightingales",
+    "label": "The Knightingales"
+  },
+  {
+    "id": "The L Word",
+    "label": "The L Word"
+  },
+  {
+    "id": "The Last Man on Earth",
+    "label": "The Last Man on Earth"
+  },
+  {
+    "id": "The Law and Mcgraw",
+    "label": "The Law and Mcgraw"
+  },
+  {
+    "id": "The League",
+    "label": "The League"
+  },
+  {
+    "id": "The Librarians",
+    "label": "The Librarians"
+  },
+  {
+    "id": "The Love Boat",
+    "label": "The Love Boat"
+  },
+  {
+    "id": "The Lucy Show",
+    "label": "The Lucy Show"
+  },
+  {
+    "id": "The Magicians",
+    "label": "The Magicians"
+  },
+  {
+    "id": "The Many Loves of Dobie Gillis",
+    "label": "The Many Loves of Dobie Gillis"
+  },
+  {
+    "id": "The Mary Tyler Moore Show",
+    "label": "The Mary Tyler Moore Show"
+  },
+  {
+    "id": "The Middle",
+    "label": "The Middle"
+  },
+  {
+    "id": "The Mindy Project",
+    "label": "The Mindy Project"
+  },
+  {
+    "id": "The Munsters",
+    "label": "The Munsters"
+  },
+  {
+    "id": "The Munsters Revenge",
+    "label": "The Munsters Revenge"
+  },
+  {
+    "id": "The Nanny",
+    "label": "The Nanny"
+  },
+  {
+    "id": "The New Andy Griffin Show",
+    "label": "The New Andy Griffin Show"
+  },
+  {
+    "id": "The New Andy Griffith Show",
+    "label": "The New Andy Griffith Show"
+  },
+  {
+    "id": "The New Gidget",
+    "label": "The New Gidget"
+  },
+  {
+    "id": "The New Leave It to Beaver",
+    "label": "The New Leave It to Beaver"
+  },
+  {
+    "id": "The Norm Show",
+    "label": "The Norm Show"
+  },
+  {
+    "id": "The Office (UK)",
+    "label": "The Office (UK)"
+  },
+  {
+    "id": "The Office (US)",
+    "label": "The Office (US)"
+  },
+  {
+    "id": "The Originals",
+    "label": "The Originals"
+  },
+  {
+    "id": "The Outer Limits",
+    "label": "The Outer Limits"
+  },
+  {
+    "id": "The Parkers",
+    "label": "The Parkers"
+  },
+  {
+    "id": "The Petticoat Junction",
+    "label": "The Petticoat Junction"
+  },
+  {
+    "id": "The Practice",
+    "label": "The Practice"
+  },
+  {
+    "id": "The Pretender",
+    "label": "The Pretender"
+  },
+  {
+    "id": "The Punisher",
+    "label": "The Punisher"
+  },
+  {
+    "id": "The Ropers",
+    "label": "The Ropers"
+  },
+  {
+    "id": "The Secret Life of an American Teenager",
+    "label": "The Secret Life of an American Teenager"
+  },
+  {
+    "id": "The Simple Life",
+    "label": "The Simple Life"
+  },
+  {
+    "id": "The Simpsons",
+    "label": "The Simpsons"
+  },
+  {
+    "id": "The Six Million Dollar Man",
+    "label": "The Six Million Dollar Man"
+  },
+  {
+    "id": "The Strain",
+    "label": "The Strain"
+  },
+  {
+    "id": "The Suite Life Series",
+    "label": "The Suite Life Series"
+  },
+  {
+    "id": "The Thundermans",
+    "label": "The Thundermans"
+  },
+  {
+    "id": "The Tommy Westphall Universe",
+    "label": "The Tommy Westphall Universe"
+  },
+  {
+    "id": "The Tortellis",
+    "label": "The Tortellis"
+  },
+  {
+    "id": "The Twilight Zone",
+    "label": "The Twilight Zone"
+  },
+  {
+    "id": "The Unbreakable Kimmy Schmidt",
+    "label": "The Unbreakable Kimmy Schmidt"
+  },
+  {
+    "id": "The Walking Dead",
+    "label": "The Walking Dead"
+  },
+  {
+    "id": "The War at Home",
+    "label": "The War at Home"
+  },
+  {
+    "id": "The White Shadow",
+    "label": "The White Shadow"
+  },
+  {
+    "id": "The Wire",
+    "label": "The Wire"
+  },
+  {
+    "id": "The X-Files",
+    "label": "The X-Files"
+  },
+  {
+    "id": "The Young Married",
+    "label": "The Young Married"
+  },
+  {
+    "id": "The Young and the Restless",
+    "label": "The Young and the Restless"
+  },
+  {
+    "id": "Third Watch",
+    "label": "Third Watch"
+  },
+  {
+    "id": "Three's Company",
+    "label": "Three's Company"
+  },
+  {
+    "id": "Three's a Crowd",
+    "label": "Three's a Crowd"
+  },
+  {
+    "id": "Thunder Alley",
+    "label": "Thunder Alley"
+  },
+  {
+    "id": "Time of Your Life",
+    "label": "Time of Your Life"
+  },
+  {
+    "id": "Titans",
+    "label": "Titans"
+  },
+  {
+    "id": "Top of the Heap",
+    "label": "Top of the Heap"
+  },
+  {
+    "id": "Torch Wood",
+    "label": "Torch Wood"
+  },
+  {
+    "id": "Touch",
+    "label": "Touch"
+  },
+  {
+    "id": "Touched by an Angel",
+    "label": "Touched by an Angel"
+  },
+  {
+    "id": "Traffic Light",
+    "label": "Traffic Light"
+  },
+  {
+    "id": "Trapper John, M.D.",
+    "label": "Trapper John, M.D."
+  },
+  {
+    "id": "Trial by Jury",
+    "label": "Trial by Jury"
+  },
+  {
+    "id": "Tru Calling",
+    "label": "Tru Calling"
+  },
+  {
+    "id": "Twin Peaks",
+    "label": "Twin Peaks"
+  },
+  {
+    "id": "Twin Peaks: Fire Walk with Me",
+    "label": "Twin Peaks: Fire Walk with Me"
+  },
+  {
+    "id": "Two Guys and a Girl",
+    "label": "Two Guys and a Girl"
+  },
+  {
+    "id": "Two Guys and a Girl and a Pizza Place",
+    "label": "Two Guys and a Girl and a Pizza Place"
+  },
+  {
+    "id": "Two and a Half Men",
+    "label": "Two and a Half Men"
+  },
+  {
+    "id": "Tyrant",
+    "label": "Tyrant"
+  },
+  {
+    "id": "Ultimate Spider-Man",
+    "label": "Ultimate Spider-Man"
+  },
+  {
+    "id": "Undateable",
+    "label": "Undateable"
+  },
+  {
+    "id": "Unfabulous",
+    "label": "Unfabulous"
+  },
+  {
+    "id": "Unforgettable",
+    "label": "Unforgettable"
+  },
+  {
+    "id": "Unhappily Ever After",
+    "label": "Unhappily Ever After"
+  },
+  {
+    "id": "United States of Tara",
+    "label": "United States of Tara"
+  },
+  {
+    "id": "Up All Night",
+    "label": "Up All Night"
+  },
+  {
+    "id": "Vegas",
+    "label": "Vegas"
+  },
+  {
+    "id": "Veronica Mars",
+    "label": "Veronica Mars"
+  },
+  {
+    "id": "Victorious",
+    "label": "Victorious"
+  },
+  {
+    "id": "Vinnie and Bobby",
+    "label": "Vinnie and Bobby"
+  },
+  {
+    "id": "Viva Las Vegas",
+    "label": "Viva Las Vegas"
+  },
+  {
+    "id": "Vixen",
+    "label": "Vixen"
+  },
+  {
+    "id": "W*A*L*T*E*R",
+    "label": "W*A*L*T*E*R"
+  },
+  {
+    "id": "Walker Texas Ranger",
+    "label": "Walker Texas Ranger"
+  },
+  {
+    "id": "Wanda Vision",
+    "label": "Wanda Vision"
+  },
+  {
+    "id": "Ware House 13",
+    "label": "Ware House 13"
+  },
+  {
+    "id": "Webster",
+    "label": "Webster"
+  },
+  {
+    "id": "Weeds",
+    "label": "Weeds"
+  },
+  {
+    "id": "What If...",
+    "label": "What If..."
+  },
+  {
+    "id": "White Collar",
+    "label": "White Collar"
+  },
+  {
+    "id": "Whiz Kids",
+    "label": "Whiz Kids"
+  },
+  {
+    "id": "Wings",
+    "label": "Wings"
+  },
+  {
+    "id": "Wisdom of the Crowd",
+    "label": "Wisdom of the Crowd"
+  },
+  {
+    "id": "Without a Trace",
+    "label": "Without a Trace"
+  },
+  {
+    "id": "Wizards of Waverly Place",
+    "label": "Wizards of Waverly Place"
+  },
+  {
+    "id": "Wonder Woman (1975)",
+    "label": "Wonder Woman (1975)"
+  },
+  {
+    "id": "Wonderfalls",
+    "label": "Wonderfalls"
+  },
+  {
+    "id": "Workaholics",
+    "label": "Workaholics"
+  },
+  {
+    "id": "You Wish",
+    "label": "You Wish"
+  },
+  {
+    "id": "Young Sheldon",
+    "label": "Young Sheldon"
+  },
+  {
+    "id": "Zeke and Luther",
+    "label": "Zeke and Luther"
+  },
+  {
+    "id": "Zero Hour",
+    "label": "Zero Hour"
+  },
+  {
+    "id": "Zoey 101",
+    "label": "Zoey 101"
+  },
+  {
+    "id": "iZombie",
+    "label": "iZombie"
+  }
 ]
