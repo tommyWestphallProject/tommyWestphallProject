@@ -56,21 +56,12 @@
               <h2>The Main Attraction</h2>
               <script type="module" src="./index.jsx"></script>
 						</section>
-						<section>
-							<div class="content">
-								<div class="inner">
-									<h1>The Project</h1>
-                  <p> Talk about why I built the project</p>
-								</div>
-							</div>
-						</section>
             <section>
 							<div class="content">
 								<div class="inner">
-									<h2>Problem 1</h2>
-									<p> • Worked on RESTful APIs and Swagger 3.0 for testing and NLP analysis. <br>
-										• Used OpenAPI documentation to generate test cases and utilize existing testing framework to create a report of the HTTP request calls made.<br>
-										• Developed a recursive parser to create the blueprint for automated fuzzer test case generation for Oracle Digital Assistant using Java, Gradle, and TestNG. <br>
+									<h2>How this problem was solved</h2>
+									<p> 
+										The project turns the "Tommy Westphall Universe" fan theory — the idea that hundreds of TV shows are secretly connected through character and setting crossovers — into an interactive, explorable graph. The build had three parts. First, a Python scraper pulls the canonical list of connected shows from the Tommy Westphall Fandom wiki using its MediaWiki API, rather than parsing raw HTML, which is far more reliable and avoids the anti-scraping walls that blocked earlier attempts against IMDB. Second, that same script infers crossover relationships (edges) by checking which show pages link to which other show pages within the dataset, then writes the results out as nodes.json and edges.json. Third, a React front end built on ReactFlow fetches that JSON at runtime and renders it as a graph, using the dagre layout engine to auto-position hundreds of nodes so the graph stays readable instead of needing manual placement. A search bar highlights matching shows and fades everything else, making it usable even at full scale.
 									</p>
 								</div>
 							</div>
@@ -78,10 +69,9 @@
             <section>
 							<div class="content">
 								<div class="inner">
-									<h2>Problem 2</h2>
-									<p> • Worked on RESTful APIs and Swagger 3.0 for testing and NLP analysis. <br>
-										• Used OpenAPI documentation to generate test cases and utilize existing testing framework to create a report of the HTTP request calls made.<br>
-										• Developed a recursive parser to create the blueprint for automated fuzzer test case generation for Oracle Digital Assistant using Java, Gradle, and TestNG. <br>
+									<h2>Technologies used</h2>
+									<p> 
+										The front end is a Create React App project using React 19, ReactFlow (@xyflow/react) for the graph canvas, and dagre for automatic graph layout. Data collection is handled by a small Python script using the requests library against Fandom's MediaWiki JSON API. The site is static and deploys to GitHub Pages via the gh-pages npm package. Data flows one-directionally: Python scraper → JSON files → fetched by the React app at runtime, so the front end never needs to know how the data was gathered.
 									</p>
 								</div>
 							</div>
@@ -89,21 +79,9 @@
             <section>
 							<div class="content">
 								<div class="inner">
-									<h2>Problem 3</h2>
-									<p> • Worked on RESTful APIs and Swagger 3.0 for testing and NLP analysis. <br>
-										• Used OpenAPI documentation to generate test cases and utilize existing testing framework to create a report of the HTTP request calls made.<br>
-										• Developed a recursive parser to create the blueprint for automated fuzzer test case generation for Oracle Digital Assistant using Java, Gradle, and TestNG. <br>
-									</p>
-								</div>
-							</div>
-						</section>
-            <section>
-							<div class="content">
-								<div class="inner">
-									<h2>Problem 4</h2>
-									<p> • Worked on RESTful APIs and Swagger 3.0 for testing and NLP analysis. <br>
-										• Used OpenAPI documentation to generate test cases and utilize existing testing framework to create a report of the HTTP request calls made.<br>
-										• Developed a recursive parser to create the blueprint for automated fuzzer test case generation for Oracle Digital Assistant using Java, Gradle, and TestNG. <br>
+									<h2>Future steps to improve the project</h2>
+									<p> 
+										Worth tackling next: caching/rate-limiting the scraper more aggressively so it can run on a schedule (e.g. GitHub Actions) and keep the graph current automatically; adding metadata to each node (network, air years, poster art) so clicking a show shows more than just its name; clustering or filtering by network/genre/decade so the graph is easier to explore at 500+ nodes; adding a "shortest path" feature so users can ask "how is Show A connected to Show B"; and writing tests for the layout and data-loading logic.
 									</p>
 								</div>
 							</div>
@@ -113,8 +91,7 @@
 			<footer id="footer" class="wrapper style1-alt">
 				<div class="inner">
 					<ul class="menu"; style="color:rgba(255, 255, 255, 0.622); text-align: center">
-
-						<li ><a href="https://www.linkedin.com/in/archit-goswami/">LinkedIn</a></li><li><a href="mailto: arctgoswami@gmail.com">Email</a></li><li><a href="https://github.com/ArchitGoswami">GitHub</a></li>
+						<li ><a href="https://www.architgoswami.com/">Website</a></li><li ><a href="https://www.linkedin.com/in/archit-goswami/">LinkedIn</a></li><li><a href="mailto: arctgoswami@gmail.com">Email</a></li><li><a href="https://github.com/ArchitGoswami">GitHub</a></li>
 					</ul>
 				</div>
 			</footer>
