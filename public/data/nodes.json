@@ -1,0 +1,22 @@
+[
+  {"id": "St. Elsewhere", "label": "St. Elsewhere"},
+  {"id": "Cheers", "label": "Cheers"},
+  {"id": "Homicide: Life on the Street", "label": "Homicide: Life on the Street"},
+  {"id": "Law & Order", "label": "Law & Order"},
+  {"id": "Law & Order: Special Victims Unit", "label": "Law & Order: Special Victims Unit"},
+  {"id": "Law & Order: Criminal Intent", "label": "Law & Order: Criminal Intent"},
+  {"id": "The X-Files", "label": "The X-Files"},
+  {"id": "The Wire", "label": "The Wire"},
+  {"id": "ER", "label": "ER"},
+  {"id": "Chicago Hope", "label": "Chicago Hope"},
+  {"id": "Frasier", "label": "Frasier"},
+  {"id": "Wings", "label": "Wings"},
+  {"id": "The Simpsons", "label": "The Simpsons"},
+  {"id": "Oz", "label": "Oz"},
+  {"id": "Arrested Development", "label": "Arrested Development"},
+  {"id": "24", "label": "24"},
+  {"id": "NCIS", "label": "NCIS"},
+  {"id": "JAG", "label": "JAG"},
+  {"id": "Quincy, M.E.", "label": "Quincy, M.E."},
+  {"id": "L.A. Law", "label": "L.A. Law"}
+]
