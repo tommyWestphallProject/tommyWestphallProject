@@ -38,3 +38,26 @@ This is an attempt to generate an interactive graph of nodes of all pieces of en
 
     Source: 
     [1] https://www.dave-dyment.com/addendum-to-the-tommy-westphall-universe-2
+
+## Generating the data (steps 5-9, 15-16)
+
+`webScraperPy/scraper.py` pulls the node list from the master list page and
+infers crossover edges from Fandom's MediaWiki API (`api.php`), instead of
+scraping raw HTML or IMDB (which blocks scrapers with 403s and has no API):
+
+```
+cd webScraperPy
+pip install -r requirements.txt
+python scraper.py
+```
+
+This writes `fileDump/jsonDump/nodes.json` and `edges.json`, and copies them
+into `reactApp/public/data/` (and `public/data/`, since `public/` is a
+symlink to `reactApp/public/`) so the React app can fetch them at runtime.
+
+`src/App.js` fetches those two files, lays the graph out automatically with
+dagre (step 6), and renders it with a search box that highlights matching
+shows. A small seed `nodes.json`/`edges.json` is committed so the app runs
+out of the box; run the scraper to replace it with the full ~500-show
+dataset from the wiki.
+

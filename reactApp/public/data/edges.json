@@ -1,0 +1,18 @@
+[
+  {"id": "Cheers__St. Elsewhere", "source": "St. Elsewhere", "target": "Cheers"},
+  {"id": "Homicide: Life on the Street__St. Elsewhere", "source": "St. Elsewhere", "target": "Homicide: Life on the Street"},
+  {"id": "Homicide: Life on the Street__Law & Order", "source": "Homicide: Life on the Street", "target": "Law & Order"},
+  {"id": "Law & Order__Law & Order: Special Victims Unit", "source": "Law & Order", "target": "Law & Order: Special Victims Unit"},
+  {"id": "Law & Order__Law & Order: Criminal Intent", "source": "Law & Order", "target": "Law & Order: Criminal Intent"},
+  {"id": "Law & Order: Criminal Intent__Law & Order: Special Victims Unit", "source": "Law & Order: Criminal Intent", "target": "Law & Order: Special Victims Unit"},
+  {"id": "Homicide: Life on the Street__The X-Files", "source": "Homicide: Life on the Street", "target": "The X-Files"},
+  {"id": "Homicide: Life on the Street__The Wire", "source": "Homicide: Life on the Street", "target": "The Wire"},
+  {"id": "Chicago Hope__ER", "source": "ER", "target": "Chicago Hope"},
+  {"id": "Cheers__Frasier", "source": "Cheers", "target": "Frasier"},
+  {"id": "Cheers__Wings", "source": "Cheers", "target": "Wings"},
+  {"id": "Oz__Homicide: Life on the Street", "source": "Homicide: Life on the Street", "target": "Oz"},
+  {"id": "The Simpsons__24", "source": "The Simpsons", "target": "24"},
+  {"id": "JAG__NCIS", "source": "JAG", "target": "NCIS"},
+  {"id": "L.A. Law__Quincy, M.E.", "source": "Quincy, M.E.", "target": "L.A. Law"},
+  {"id": "L.A. Law__St. Elsewhere", "source": "St. Elsewhere", "target": "L.A. Law"}
+]
