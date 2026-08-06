@@ -1,2546 +1,3182 @@
 [
   {
     "id": "24",
-    "label": "24"
+    "label": "24",
+    "group": "Other"
   },
   {
     "id": "24: Legacy",
-    "label": "24: Legacy"
+    "label": "24: Legacy",
+    "group": "Other"
   },
   {
     "id": "30 Days of Night",
-    "label": "30 Days of Night"
+    "label": "30 Days of Night",
+    "group": "Other"
   },
   {
     "id": "30 Rock",
-    "label": "30 Rock"
+    "label": "30 Rock",
+    "group": "Other"
   },
   {
     "id": "704 Hauser",
-    "label": "704 Hauser"
+    "label": "704 Hauser",
+    "group": "Other"
   },
   {
     "id": "90210",
-    "label": "90210"
+    "label": "90210",
+    "group": "Other"
   },
   {
     "id": "A Different World",
-    "label": "A Different World"
+    "label": "A Different World",
+    "group": "Other"
   },
   {
     "id": "A.N.T. Farm",
-    "label": "A.N.T. Farm"
+    "label": "A.N.T. Farm",
+    "group": "Other"
   },
   {
     "id": "ALF",
-    "label": "ALF"
+    "label": "ALF",
+    "group": "Other"
   },
   {
     "id": "Accidentally on Purpose",
-    "label": "Accidentally on Purpose"
+    "label": "Accidentally on Purpose",
+    "group": "Other"
   },
   {
     "id": "Adam-12",
-    "label": "Adam-12"
+    "label": "Adam-12",
+    "group": "Other"
   },
   {
     "id": "AfterMASH",
-    "label": "AfterMASH"
+    "label": "AfterMASH",
+    "group": "M*A*S*H"
   },
   {
     "id": "Agent Carter",
-    "label": "Agent Carter"
+    "label": "Agent Carter",
+    "group": "Other"
   },
   {
     "id": "Agents of Shield",
-    "label": "Agents of Shield"
+    "label": "Agents of Shield",
+    "group": "Marvel"
   },
   {
     "id": "Airport 1975",
-    "label": "Airport 1975"
+    "label": "Airport 1975",
+    "group": "Other"
   },
   {
     "id": "Alias",
-    "label": "Alias"
+    "label": "Alias",
+    "group": "Other"
   },
   {
     "id": "All My Children",
-    "label": "All My Children"
+    "label": "All My Children",
+    "group": "Other"
   },
   {
     "id": "All in the Family",
-    "label": "All in the Family"
+    "label": "All in the Family",
+    "group": "Other"
   },
   {
     "id": "Ally",
-    "label": "Ally"
+    "label": "Ally",
+    "group": "Other"
   },
   {
     "id": "Ally McBeal",
-    "label": "Ally McBeal"
+    "label": "Ally McBeal",
+    "group": "Other"
   },
   {
     "id": "Alphas",
-    "label": "Alphas"
+    "label": "Alphas",
+    "group": "Other"
   },
   {
     "id": "American Horror Story",
-    "label": "American Horror Story"
+    "label": "American Horror Story",
+    "group": "Other"
   },
   {
     "id": "Andy Barker P.I.",
-    "label": "Andy Barker P.I."
+    "label": "Andy Barker P.I.",
+    "group": "Other"
   },
   {
     "id": "Angels",
-    "label": "Angels"
+    "label": "Angels",
+    "group": "Other"
   },
   {
     "id": "Anger Management",
-    "label": "Anger Management"
+    "label": "Anger Management",
+    "group": "Other"
   },
   {
     "id": "Another World",
-    "label": "Another World"
+    "label": "Another World",
+    "group": "Other"
   },
   {
     "id": "Archie Bunker's Place",
-    "label": "Archie Bunker's Place"
+    "label": "Archie Bunker's Place",
+    "group": "Other"
   },
   {
     "id": "Arrested Development",
-    "label": "Arrested Development"
+    "label": "Arrested Development",
+    "group": "Other"
   },
   {
     "id": "Arrow",
-    "label": "Arrow"
+    "label": "Arrow",
+    "group": "Marvel"
   },
   {
     "id": "As the World Turns",
-    "label": "As the World Turns"
+    "label": "As the World Turns",
+    "group": "Other"
   },
   {
     "id": "Austin & Ally",
-    "label": "Austin & Ally"
+    "label": "Austin & Ally",
+    "group": "Other"
   },
   {
     "id": "Austin and Ally",
-    "label": "Austin and Ally"
+    "label": "Austin and Ally",
+    "group": "Other"
   },
   {
     "id": "Awkward",
-    "label": "Awkward"
+    "label": "Awkward",
+    "group": "Other"
   },
   {
     "id": "Bat Woman",
-    "label": "Bat Woman"
+    "label": "Bat Woman",
+    "group": "Marvel"
   },
   {
     "id": "Batman (1966-1968)",
-    "label": "Batman (1966-1968)"
+    "label": "Batman (1966-1968)",
+    "group": "Batman 1966"
   },
   {
     "id": "Battlestar Galactica (1978)",
-    "label": "Battlestar Galactica (1978)"
+    "label": "Battlestar Galactica (1978)",
+    "group": "Other"
   },
   {
     "id": "Beat",
-    "label": "Beat"
+    "label": "Beat",
+    "group": "Other"
   },
   {
     "id": "Beauty and the Beast",
-    "label": "Beauty and the Beast"
+    "label": "Beauty and the Beast",
+    "group": "Other"
   },
   {
     "id": "Becker",
-    "label": "Becker"
+    "label": "Becker",
+    "group": "Other"
   },
   {
     "id": "Benson",
-    "label": "Benson"
+    "label": "Benson",
+    "group": "Other"
   },
   {
     "id": "Best Friends Whenever",
-    "label": "Best Friends Whenever"
+    "label": "Best Friends Whenever",
+    "group": "Friends / Melrose"
   },
   {
     "id": "Better Call Saul",
-    "label": "Better Call Saul"
+    "label": "Better Call Saul",
+    "group": "Other"
   },
   {
     "id": "Beverly Hill Bluntz",
-    "label": "Beverly Hill Bluntz"
+    "label": "Beverly Hill Bluntz",
+    "group": "Other"
   },
   {
     "id": "Beverly Hills, 90210",
-    "label": "Beverly Hills, 90210"
+    "label": "Beverly Hills, 90210",
+    "group": "Other"
   },
   {
     "id": "Bewitched",
-    "label": "Bewitched"
+    "label": "Bewitched",
+    "group": "Bewitched"
   },
   {
     "id": "Beyond Borders",
-    "label": "Beyond Borders"
+    "label": "Beyond Borders",
+    "group": "Other"
   },
   {
     "id": "Big Time Rush",
-    "label": "Big Time Rush"
+    "label": "Big Time Rush",
+    "group": "Other"
   },
   {
     "id": "Black Lightning",
-    "label": "Black Lightning"
+    "label": "Black Lightning",
+    "group": "Marvel"
   },
   {
     "id": "Black Mirror",
-    "label": "Black Mirror"
+    "label": "Black Mirror",
+    "group": "Other"
   },
   {
     "id": "Blansky's Beauties",
-    "label": "Blansky's Beauties"
+    "label": "Blansky's Beauties",
+    "group": "Other"
   },
   {
     "id": "Blossom",
-    "label": "Blossom"
+    "label": "Blossom",
+    "group": "Other"
   },
   {
     "id": "Blue Bloods",
-    "label": "Blue Bloods"
+    "label": "Blue Bloods",
+    "group": "Other"
   },
   {
     "id": "Blue Mountain State",
-    "label": "Blue Mountain State"
+    "label": "Blue Mountain State",
+    "group": "Other"
   },
   {
     "id": "Blue Skies",
-    "label": "Blue Skies"
+    "label": "Blue Skies",
+    "group": "Other"
   },
   {
     "id": "Bob",
-    "label": "Bob"
+    "label": "Bob",
+    "group": "Other"
   },
   {
     "id": "Bob (CBS)",
-    "label": "Bob (CBS)"
+    "label": "Bob (CBS)",
+    "group": "Other"
   },
   {
     "id": "Bones",
-    "label": "Bones"
+    "label": "Bones",
+    "group": "Other"
   },
   {
     "id": "Boston Legal",
-    "label": "Boston Legal"
+    "label": "Boston Legal",
+    "group": "Other"
   },
   {
     "id": "Boston Public",
-    "label": "Boston Public"
+    "label": "Boston Public",
+    "group": "Other"
   },
   {
     "id": "Boy Meets World",
-    "label": "Boy Meets World"
+    "label": "Boy Meets World",
+    "group": "Other"
   },
   {
     "id": "Breaking Bad",
-    "label": "Breaking Bad"
+    "label": "Breaking Bad",
+    "group": "Other"
   },
   {
     "id": "Breakout Kings",
-    "label": "Breakout Kings"
+    "label": "Breakout Kings",
+    "group": "Other"
   },
   {
     "id": "Brooklyn 99",
-    "label": "Brooklyn 99"
+    "label": "Brooklyn 99",
+    "group": "Other"
   },
   {
     "id": "Buddies",
-    "label": "Buddies"
+    "label": "Buddies",
+    "group": "Other"
   },
   {
     "id": "Buffy the Vampire Slayer",
-    "label": "Buffy the Vampire Slayer"
+    "label": "Buffy the Vampire Slayer",
+    "group": "Other"
   },
   {
     "id": "Bunk'd",
-    "label": "Bunk'd"
+    "label": "Bunk'd",
+    "group": "Other"
   },
   {
     "id": "Burke's Law (1960's)",
-    "label": "Burke's Law (1960's)"
+    "label": "Burke's Law (1960's)",
+    "group": "Other"
   },
   {
     "id": "Burke's Law (1990's)",
-    "label": "Burke's Law (1990's)"
+    "label": "Burke's Law (1990's)",
+    "group": "Other"
   },
   {
     "id": "Burn Notice",
-    "label": "Burn Notice"
+    "label": "Burn Notice",
+    "group": "Other"
   },
   {
     "id": "CHiPs",
-    "label": "CHiPs"
+    "label": "CHiPs",
+    "group": "Other"
   },
   {
     "id": "CSI",
-    "label": "CSI"
+    "label": "CSI",
+    "group": "CSI"
   },
   {
     "id": "CSI: Cyber",
-    "label": "CSI: Cyber"
+    "label": "CSI: Cyber",
+    "group": "CSI"
   },
   {
     "id": "CSI: Miami",
-    "label": "CSI: Miami"
+    "label": "CSI: Miami",
+    "group": "CSI"
   },
   {
     "id": "CSI: New York",
-    "label": "CSI: New York"
+    "label": "CSI: New York",
+    "group": "CSI"
   },
   {
     "id": "Californication",
-    "label": "Californication"
+    "label": "Californication",
+    "group": "Other"
   },
   {
     "id": "Can't Hurry Love",
-    "label": "Can't Hurry Love"
+    "label": "Can't Hurry Love",
+    "group": "Other"
   },
   {
     "id": "Caprica",
-    "label": "Caprica"
+    "label": "Caprica",
+    "group": "Other"
   },
   {
     "id": "Caroline in the City",
-    "label": "Caroline in the City"
+    "label": "Caroline in the City",
+    "group": "Other"
   },
   {
     "id": "Castle",
-    "label": "Castle"
+    "label": "Castle",
+    "group": "Other"
   },
   {
     "id": "Charlie's Angels",
-    "label": "Charlie's Angels"
+    "label": "Charlie's Angels",
+    "group": "Other"
   },
   {
     "id": "Checking In",
-    "label": "Checking In"
+    "label": "Checking In",
+    "group": "Other"
   },
   {
     "id": "Cheers",
-    "label": "Cheers"
+    "label": "Cheers",
+    "group": "Cheers / Wings"
   },
   {
     "id": "Chelmsford 123",
-    "label": "Chelmsford 123"
+    "label": "Chelmsford 123",
+    "group": "Other"
   },
   {
     "id": "Chicago Fire",
-    "label": "Chicago Fire"
+    "label": "Chicago Fire",
+    "group": "Chicago"
   },
   {
     "id": "Chicago Hope",
-    "label": "Chicago Hope"
+    "label": "Chicago Hope",
+    "group": "Chicago"
   },
   {
     "id": "Chicago Justice",
-    "label": "Chicago Justice"
+    "label": "Chicago Justice",
+    "group": "Chicago"
   },
   {
     "id": "Chicago Med",
-    "label": "Chicago Med"
+    "label": "Chicago Med",
+    "group": "Chicago"
   },
   {
     "id": "Chicago PD",
-    "label": "Chicago PD"
+    "label": "Chicago PD",
+    "group": "Chicago"
   },
   {
     "id": "Chuck",
-    "label": "Chuck"
+    "label": "Chuck",
+    "group": "Other"
   },
   {
     "id": "City of Angels",
-    "label": "City of Angels"
+    "label": "City of Angels",
+    "group": "Other"
   },
   {
     "id": "Civil Wars",
-    "label": "Civil Wars"
+    "label": "Civil Wars",
+    "group": "Other"
   },
   {
     "id": "Class",
-    "label": "Class"
+    "label": "Class",
+    "group": "Other"
   },
   {
     "id": "Cloak and Dagger",
-    "label": "Cloak and Dagger"
+    "label": "Cloak and Dagger",
+    "group": "Other"
   },
   {
     "id": "Clueless",
-    "label": "Clueless"
+    "label": "Clueless",
+    "group": "Other"
   },
   {
     "id": "Coach (ABC)",
-    "label": "Coach (ABC)"
+    "label": "Coach (ABC)",
+    "group": "Other"
   },
   {
     "id": "Code of Vengeance",
-    "label": "Code of Vengeance"
+    "label": "Code of Vengeance",
+    "group": "Other"
   },
   {
     "id": "Cold Case",
-    "label": "Cold Case"
+    "label": "Cold Case",
+    "group": "Other"
   },
   {
     "id": "Colony",
-    "label": "Colony"
+    "label": "Colony",
+    "group": "Other"
   },
   {
     "id": "Columbo",
-    "label": "Columbo"
+    "label": "Columbo",
+    "group": "Other"
   },
   {
     "id": "Community",
-    "label": "Community"
+    "label": "Community",
+    "group": "Other"
   },
   {
     "id": "Constantine",
-    "label": "Constantine"
+    "label": "Constantine",
+    "group": "Other"
   },
   {
     "id": "Conviction",
-    "label": "Conviction"
+    "label": "Conviction",
+    "group": "Other"
   },
   {
     "id": "Cop Rock",
-    "label": "Cop Rock"
+    "label": "Cop Rock",
+    "group": "Other"
   },
   {
     "id": "Cory in the House",
-    "label": "Cory in the House"
+    "label": "Cory in the House",
+    "group": "Other"
   },
   {
     "id": "Cosby",
-    "label": "Cosby"
+    "label": "Cosby",
+    "group": "Other"
   },
   {
     "id": "Cougar Town",
-    "label": "Cougar Town"
+    "label": "Cougar Town",
+    "group": "Other"
   },
   {
     "id": "Crazy Ex Girlfriend",
-    "label": "Crazy Ex Girlfriend"
+    "label": "Crazy Ex Girlfriend",
+    "group": "Other"
   },
   {
     "id": "Criminal Minds",
-    "label": "Criminal Minds"
+    "label": "Criminal Minds",
+    "group": "Other"
   },
   {
     "id": "Crossing Jordan",
-    "label": "Crossing Jordan"
+    "label": "Crossing Jordan",
+    "group": "Other"
   },
   {
     "id": "Dare Devil",
-    "label": "Dare Devil"
+    "label": "Dare Devil",
+    "group": "Marvel"
   },
   {
     "id": "Day by Day",
-    "label": "Day by Day"
+    "label": "Day by Day",
+    "group": "Other"
   },
   {
     "id": "Days of Our Lives",
-    "label": "Days of Our Lives"
+    "label": "Days of Our Lives",
+    "group": "Other"
   },
   {
     "id": "Dead Like Me",
-    "label": "Dead Like Me"
+    "label": "Dead Like Me",
+    "group": "Other"
   },
   {
     "id": "Deadline",
-    "label": "Deadline"
+    "label": "Deadline",
+    "group": "Other"
   },
   {
     "id": "Degrassi High",
-    "label": "Degrassi High"
+    "label": "Degrassi High",
+    "group": "Degrassi"
   },
   {
     "id": "Degrassi Junior High",
-    "label": "Degrassi Junior High"
+    "label": "Degrassi Junior High",
+    "group": "Degrassi"
   },
   {
     "id": "Degrassi: Next Class",
-    "label": "Degrassi: Next Class"
+    "label": "Degrassi: Next Class",
+    "group": "Degrassi"
   },
   {
     "id": "Degrassi: Next Generation",
-    "label": "Degrassi: Next Generation"
+    "label": "Degrassi: Next Generation",
+    "group": "Degrassi"
   },
   {
     "id": "Dennis the Menace",
-    "label": "Dennis the Menace"
+    "label": "Dennis the Menace",
+    "group": "Other"
   },
   {
     "id": "Designated Survivor",
-    "label": "Designated Survivor"
+    "label": "Designated Survivor",
+    "group": "Other"
   },
   {
     "id": "Dexter",
-    "label": "Dexter"
+    "label": "Dexter",
+    "group": "Other"
   },
   {
     "id": "Dharma and Greg",
-    "label": "Dharma and Greg"
+    "label": "Dharma and Greg",
+    "group": "Other"
   },
   {
     "id": "Diagnosis: Murder",
-    "label": "Diagnosis: Murder"
+    "label": "Diagnosis: Murder",
+    "group": "Other"
   },
   {
     "id": "Different Strokes",
-    "label": "Different Strokes"
+    "label": "Different Strokes",
+    "group": "Other"
   },
   {
     "id": "Doctor Who",
-    "label": "Doctor Who"
+    "label": "Doctor Who",
+    "group": "Doctor Who"
   },
   {
     "id": "Dog with a Blog",
-    "label": "Dog with a Blog"
+    "label": "Dog with a Blog",
+    "group": "Other"
   },
   {
     "id": "Doll House",
-    "label": "Doll House"
+    "label": "Doll House",
+    "group": "Other"
   },
   {
     "id": "Doom Patrol",
-    "label": "Doom Patrol"
+    "label": "Doom Patrol",
+    "group": "Other"
   },
   {
     "id": "Double Rush",
-    "label": "Double Rush"
+    "label": "Double Rush",
+    "group": "Other"
   },
   {
     "id": "Dr. Ken",
-    "label": "Dr. Ken"
+    "label": "Dr. Ken",
+    "group": "Other"
   },
   {
     "id": "Dragnet",
-    "label": "Dragnet"
+    "label": "Dragnet",
+    "group": "Other"
   },
   {
     "id": "Dragnet 1967",
-    "label": "Dragnet 1967"
+    "label": "Dragnet 1967",
+    "group": "Other"
   },
   {
     "id": "Drake and Josh",
-    "label": "Drake and Josh"
+    "label": "Drake and Josh",
+    "group": "Other"
   },
   {
     "id": "Dunder-Mifflin",
-    "label": "Dunder-Mifflin"
+    "label": "Dunder-Mifflin",
+    "group": "Other"
   },
   {
     "id": "ER",
-    "label": "ER"
+    "label": "ER",
+    "group": "Other"
   },
   {
     "id": "ER (1994)",
-    "label": "ER (1994)"
+    "label": "ER (1994)",
+    "group": "Other"
   },
   {
     "id": "Early Edition",
-    "label": "Early Edition"
+    "label": "Early Edition",
+    "group": "Other"
   },
   {
     "id": "Eastenders",
-    "label": "Eastenders"
+    "label": "Eastenders",
+    "group": "Other"
   },
   {
     "id": "Eerie, Indiana",
-    "label": "Eerie, Indiana"
+    "label": "Eerie, Indiana",
+    "group": "Other"
   },
   {
     "id": "Eerie, Indiana: The Other Dimension",
-    "label": "Eerie, Indiana: The Other Dimension"
+    "label": "Eerie, Indiana: The Other Dimension",
+    "group": "Other"
   },
   {
     "id": "Eli Stone",
-    "label": "Eli Stone"
+    "label": "Eli Stone",
+    "group": "Other"
   },
   {
     "id": "Ellen (1997)",
-    "label": "Ellen (1997)"
+    "label": "Ellen (1997)",
+    "group": "Other"
   },
   {
     "id": "Emergency",
-    "label": "Emergency"
+    "label": "Emergency",
+    "group": "Other"
   },
   {
     "id": "Empty Nest",
-    "label": "Empty Nest"
+    "label": "Empty Nest",
+    "group": "The Golden Girls"
   },
   {
     "id": "Eureka",
-    "label": "Eureka"
+    "label": "Eureka",
+    "group": "Other"
   },
   {
     "id": "Everybody Hates Chris",
-    "label": "Everybody Hates Chris"
+    "label": "Everybody Hates Chris",
+    "group": "Other"
   },
   {
     "id": "Everybody Loves Raymond",
-    "label": "Everybody Loves Raymond"
+    "label": "Everybody Loves Raymond",
+    "group": "Other"
   },
   {
     "id": "Falcon & Winter Soldier",
-    "label": "Falcon & Winter Soldier"
+    "label": "Falcon & Winter Soldier",
+    "group": "Other"
   },
   {
     "id": "Family Matters",
-    "label": "Family Matters"
+    "label": "Family Matters",
+    "group": "Other"
   },
   {
     "id": "Family Ties",
-    "label": "Family Ties"
+    "label": "Family Ties",
+    "group": "Family Ties"
   },
   {
     "id": "Fantasy Island",
-    "label": "Fantasy Island"
+    "label": "Fantasy Island",
+    "group": "The Love Boat"
   },
   {
     "id": "Fargo",
-    "label": "Fargo"
+    "label": "Fargo",
+    "group": "Other"
   },
   {
     "id": "Father Knows Best",
-    "label": "Father Knows Best"
+    "label": "Father Knows Best",
+    "group": "Other"
   },
   {
     "id": "Fear of the Walking Dead",
-    "label": "Fear of the Walking Dead"
+    "label": "Fear of the Walking Dead",
+    "group": "Other"
   },
   {
     "id": "Felony Squad",
-    "label": "Felony Squad"
+    "label": "Felony Squad",
+    "group": "Other"
   },
   {
     "id": "Firefly",
-    "label": "Firefly"
+    "label": "Firefly",
+    "group": "Other"
   },
   {
     "id": "First Monday",
-    "label": "First Monday"
+    "label": "First Monday",
+    "group": "Other"
   },
   {
     "id": "Flash",
-    "label": "Flash"
+    "label": "Flash",
+    "group": "Other"
   },
   {
     "id": "Flash Forward",
-    "label": "Flash Forward"
+    "label": "Flash Forward",
+    "group": "Other"
   },
   {
     "id": "Flipper",
-    "label": "Flipper"
+    "label": "Flipper",
+    "group": "Other"
   },
   {
     "id": "Frasier",
-    "label": "Frasier"
+    "label": "Frasier",
+    "group": "Cheers / Wings"
   },
   {
     "id": "Freedom Fighters: The Ray",
-    "label": "Freedom Fighters: The Ray"
+    "label": "Freedom Fighters: The Ray",
+    "group": "Other"
   },
   {
     "id": "Friends",
-    "label": "Friends"
+    "label": "Friends",
+    "group": "Friends / Melrose"
   },
   {
     "id": "Fringe",
-    "label": "Fringe"
+    "label": "Fringe",
+    "group": "Other"
   },
   {
     "id": "Full House",
-    "label": "Full House"
+    "label": "Full House",
+    "group": "Other"
   },
   {
     "id": "Fuller House",
-    "label": "Fuller House"
+    "label": "Fuller House",
+    "group": "Other"
   },
   {
     "id": "Further Tales of the City",
-    "label": "Further Tales of the City"
+    "label": "Further Tales of the City",
+    "group": "Other"
   },
   {
     "id": "Galactica (1980)",
-    "label": "Galactica (1980)"
+    "label": "Galactica (1980)",
+    "group": "Other"
   },
   {
     "id": "Game Shakers",
-    "label": "Game Shakers"
+    "label": "Game Shakers",
+    "group": "Other"
   },
   {
     "id": "Gamer's Guide to Pretty Much Everything",
-    "label": "Gamer's Guide to Pretty Much Everything"
+    "label": "Gamer's Guide to Pretty Much Everything",
+    "group": "Other"
   },
   {
     "id": "General Hospital",
-    "label": "General Hospital"
+    "label": "General Hospital",
+    "group": "Other"
   },
   {
     "id": "General Hospital: Night Shift",
-    "label": "General Hospital: Night Shift"
+    "label": "General Hospital: Night Shift",
+    "group": "Other"
   },
   {
     "id": "George and Leo",
-    "label": "George and Leo"
+    "label": "George and Leo",
+    "group": "Other"
   },
   {
     "id": "George and Mildred",
-    "label": "George and Mildred"
+    "label": "George and Mildred",
+    "group": "Other"
   },
   {
     "id": "Get Smart",
-    "label": "Get Smart"
+    "label": "Get Smart",
+    "group": "Other"
   },
   {
     "id": "Get Smart (1995)",
-    "label": "Get Smart (1995)"
+    "label": "Get Smart (1995)",
+    "group": "Other"
   },
   {
     "id": "Ghost Whisperer",
-    "label": "Ghost Whisperer"
+    "label": "Ghost Whisperer",
+    "group": "Other"
   },
   {
     "id": "Gideon's Crossing",
-    "label": "Gideon's Crossing"
+    "label": "Gideon's Crossing",
+    "group": "Other"
   },
   {
     "id": "Gidget",
-    "label": "Gidget"
+    "label": "Gidget",
+    "group": "Other"
   },
   {
     "id": "Gilligan's Island",
-    "label": "Gilligan's Island"
+    "label": "Gilligan's Island",
+    "group": "Other"
   },
   {
     "id": "Gilmore Girls",
-    "label": "Gilmore Girls"
+    "label": "Gilmore Girls",
+    "group": "Other"
   },
   {
     "id": "Girl Meets World",
-    "label": "Girl Meets World"
+    "label": "Girl Meets World",
+    "group": "Other"
   },
   {
     "id": "Girlfriends",
-    "label": "Girlfriends"
+    "label": "Girlfriends",
+    "group": "Friends / Melrose"
   },
   {
     "id": "Glee",
-    "label": "Glee"
+    "label": "Glee",
+    "group": "Other"
   },
   {
     "id": "Gloria",
-    "label": "Gloria"
+    "label": "Gloria",
+    "group": "Other"
   },
   {
     "id": "Goliath",
-    "label": "Goliath"
+    "label": "Goliath",
+    "group": "Other"
   },
   {
     "id": "Gomer Pyle, U.S.M.C",
-    "label": "Gomer Pyle, U.S.M.C"
+    "label": "Gomer Pyle, U.S.M.C",
+    "group": "Andy Griffith"
   },
   {
     "id": "Goober and the Truckers Paradise",
-    "label": "Goober and the Truckers Paradise"
+    "label": "Goober and the Truckers Paradise",
+    "group": "Andy Griffith"
   },
   {
     "id": "Good Girls",
-    "label": "Good Girls"
+    "label": "Good Girls",
+    "group": "Other"
   },
   {
     "id": "Good Luck Charlie",
-    "label": "Good Luck Charlie"
+    "label": "Good Luck Charlie",
+    "group": "Other"
   },
   {
     "id": "Good Omens",
-    "label": "Good Omens"
+    "label": "Good Omens",
+    "group": "Other"
   },
   {
     "id": "Good Times",
-    "label": "Good Times"
+    "label": "Good Times",
+    "group": "Other"
   },
   {
     "id": "Grace Under Fire",
-    "label": "Grace Under Fire"
+    "label": "Grace Under Fire",
+    "group": "Other"
   },
   {
     "id": "Green Acres",
-    "label": "Green Acres"
+    "label": "Green Acres",
+    "group": "Other"
   },
   {
     "id": "Grey's Anatomy",
-    "label": "Grey's Anatomy"
+    "label": "Grey's Anatomy",
+    "group": "Grey's Anatomy"
   },
   {
     "id": "Grey's Anatomy: B-Team",
-    "label": "Grey's Anatomy: B-Team"
+    "label": "Grey's Anatomy: B-Team",
+    "group": "Grey's Anatomy"
   },
   {
     "id": "Guiding Light",
-    "label": "Guiding Light"
+    "label": "Guiding Light",
+    "group": "Other"
   },
   {
     "id": "Hanging In",
-    "label": "Hanging In"
+    "label": "Hanging In",
+    "group": "Other"
   },
   {
     "id": "Hanging with Mr. Cooper",
-    "label": "Hanging with Mr. Cooper"
+    "label": "Hanging with Mr. Cooper",
+    "group": "Other"
   },
   {
     "id": "Hannah Montana",
-    "label": "Hannah Montana"
+    "label": "Hannah Montana",
+    "group": "Other"
   },
   {
     "id": "Hannibal",
-    "label": "Hannibal"
+    "label": "Hannibal",
+    "group": "Other"
   },
   {
     "id": "Happy Days",
-    "label": "Happy Days"
+    "label": "Happy Days",
+    "group": "Other"
   },
   {
     "id": "Hart of Dixie",
-    "label": "Hart of Dixie"
+    "label": "Hart of Dixie",
+    "group": "Other"
   },
   {
     "id": "Hart to Hart",
-    "label": "Hart to Hart"
+    "label": "Hart to Hart",
+    "group": "Other"
   },
   {
     "id": "Haven",
-    "label": "Haven"
+    "label": "Haven",
+    "group": "Other"
   },
   {
     "id": "Hawaii Five-0",
-    "label": "Hawaii Five-0"
+    "label": "Hawaii Five-0",
+    "group": "Other"
   },
   {
     "id": "Hawaii Five-O",
-    "label": "Hawaii Five-O"
+    "label": "Hawaii Five-O",
+    "group": "Other"
   },
   {
     "id": "Hazel",
-    "label": "Hazel"
+    "label": "Hazel",
+    "group": "Other"
   },
   {
     "id": "Heart of Dixie",
-    "label": "Heart of Dixie"
+    "label": "Heart of Dixie",
+    "group": "Other"
   },
   {
     "id": "Hello, Larry",
-    "label": "Hello, Larry"
+    "label": "Hello, Larry",
+    "group": "Other"
   },
   {
     "id": "Helstrom",
-    "label": "Helstrom"
+    "label": "Helstrom",
+    "group": "Other"
   },
   {
     "id": "Henry Danger",
-    "label": "Henry Danger"
+    "label": "Henry Danger",
+    "group": "Other"
   },
   {
     "id": "Here's Lucy",
-    "label": "Here's Lucy"
+    "label": "Here's Lucy",
+    "group": "Other"
   },
   {
     "id": "Herman's Head",
-    "label": "Herman's Head"
+    "label": "Herman's Head",
+    "group": "Other"
   },
   {
     "id": "Heroes",
-    "label": "Heroes"
+    "label": "Heroes",
+    "group": "Other"
   },
   {
     "id": "Heroes Reborn",
-    "label": "Heroes Reborn"
+    "label": "Heroes Reborn",
+    "group": "Other"
   },
   {
     "id": "Hi Honey, I'm Home!",
-    "label": "Hi Honey, I'm Home!"
+    "label": "Hi Honey, I'm Home!",
+    "group": "Other"
   },
   {
     "id": "High Society",
-    "label": "High Society"
+    "label": "High Society",
+    "group": "Other"
   },
   {
     "id": "Hill Street Blues",
-    "label": "Hill Street Blues"
+    "label": "Hill Street Blues",
+    "group": "Hill Street Blues"
   },
   {
     "id": "Hogan's Heroes",
-    "label": "Hogan's Heroes"
+    "label": "Hogan's Heroes",
+    "group": "Other"
   },
   {
     "id": "Home Improvement",
-    "label": "Home Improvement"
+    "label": "Home Improvement",
+    "group": "Other"
   },
   {
     "id": "Home Land",
-    "label": "Home Land"
+    "label": "Home Land",
+    "group": "Other"
   },
   {
     "id": "Homicide: Life on the Street",
-    "label": "Homicide: Life on the Street"
+    "label": "Homicide: Life on the Street",
+    "group": "Other"
   },
   {
     "id": "Honey West",
-    "label": "Honey West"
+    "label": "Honey West",
+    "group": "Other"
   },
   {
     "id": "Hope and Gloria",
-    "label": "Hope and Gloria"
+    "label": "Hope and Gloria",
+    "group": "Other"
   },
   {
     "id": "House of Payne",
-    "label": "House of Payne"
+    "label": "House of Payne",
+    "group": "Other"
   },
   {
     "id": "How I Met Your Mother",
-    "label": "How I Met Your Mother"
+    "label": "How I Met Your Mother",
+    "group": "Other"
   },
   {
     "id": "How to Get Away with Murder",
-    "label": "How to Get Away with Murder"
+    "label": "How to Get Away with Murder",
+    "group": "Other"
   },
   {
     "id": "How to Rock",
-    "label": "How to Rock"
+    "label": "How to Rock",
+    "group": "Other"
   },
   {
     "id": "Huff",
-    "label": "Huff"
+    "label": "Huff",
+    "group": "Other"
   },
   {
     "id": "Hunter (1984)",
-    "label": "Hunter (1984)"
+    "label": "Hunter (1984)",
+    "group": "Other"
   },
   {
     "id": "I Didn't Do It",
-    "label": "I Didn't Do It"
+    "label": "I Didn't Do It",
+    "group": "Other"
   },
   {
     "id": "I Dream of Jeanie",
-    "label": "I Dream of Jeanie"
+    "label": "I Dream of Jeanie",
+    "group": "Other"
   },
   {
     "id": "I Love Lucy",
-    "label": "I Love Lucy"
+    "label": "I Love Lucy",
+    "group": "Other"
   },
   {
     "id": "I'm in the Band",
-    "label": "I'm in the Band"
+    "label": "I'm in the Band",
+    "group": "Other"
   },
   {
     "id": "Icarly",
-    "label": "Icarly"
+    "label": "Icarly",
+    "group": "Other"
   },
   {
     "id": "In Plain Sight",
-    "label": "In Plain Sight"
+    "label": "In Plain Sight",
+    "group": "Other"
   },
   {
     "id": "In the House",
-    "label": "In the House"
+    "label": "In the House",
+    "group": "Other"
   },
   {
     "id": "Inhumans",
-    "label": "Inhumans"
+    "label": "Inhumans",
+    "group": "Other"
   },
   {
     "id": "Ink (CBS)",
-    "label": "Ink (CBS)"
+    "label": "Ink (CBS)",
+    "group": "Other"
   },
   {
     "id": "Instant Mom",
-    "label": "Instant Mom"
+    "label": "Instant Mom",
+    "group": "Other"
   },
   {
     "id": "Iron Fist",
-    "label": "Iron Fist"
+    "label": "Iron Fist",
+    "group": "Marvel"
   },
   {
     "id": "It's Always Sunny in Philadelphia",
-    "label": "It's Always Sunny in Philadelphia"
+    "label": "It's Always Sunny in Philadelphia",
+    "group": "Other"
   },
   {
     "id": "JAG",
-    "label": "JAG"
+    "label": "JAG",
+    "group": "Other"
   },
   {
     "id": "Jake 2.0",
-    "label": "Jake 2.0"
+    "label": "Jake 2.0",
+    "group": "Other"
   },
   {
     "id": "Jake and the Fatman",
-    "label": "Jake and the Fatman"
+    "label": "Jake and the Fatman",
+    "group": "Other"
   },
   {
     "id": "Jessica Jones",
-    "label": "Jessica Jones"
+    "label": "Jessica Jones",
+    "group": "Marvel"
   },
   {
     "id": "Jessie",
-    "label": "Jessie"
+    "label": "Jessie",
+    "group": "Other"
   },
   {
     "id": "Jo",
-    "label": "Jo"
+    "label": "Jo",
+    "group": "Other"
   },
   {
     "id": "Joanie Loves Chachi",
-    "label": "Joanie Loves Chachi"
+    "label": "Joanie Loves Chachi",
+    "group": "Other"
   },
   {
     "id": "Joey",
-    "label": "Joey"
+    "label": "Joey",
+    "group": "Other"
   },
   {
     "id": "Journeyman",
-    "label": "Journeyman"
+    "label": "Journeyman",
+    "group": "Other"
   },
   {
     "id": "Judd, for the Defense",
-    "label": "Judd, for the Defense"
+    "label": "Judd, for the Defense",
+    "group": "Other"
   },
   {
     "id": "Judging Amy",
-    "label": "Judging Amy"
+    "label": "Judging Amy",
+    "group": "Other"
   },
   {
     "id": "Julia",
-    "label": "Julia"
+    "label": "Julia",
+    "group": "Other"
   },
   {
     "id": "Justified",
-    "label": "Justified"
+    "label": "Justified",
+    "group": "Other"
   },
   {
     "id": "K-9 and Company",
-    "label": "K-9 and Company"
+    "label": "K-9 and Company",
+    "group": "Doctor Who"
   },
   {
     "id": "K.C. Undercover",
-    "label": "K.C. Undercover"
+    "label": "K.C. Undercover",
+    "group": "Other"
   },
   {
     "id": "Karen Sisco",
-    "label": "Karen Sisco"
+    "label": "Karen Sisco",
+    "group": "Other"
   },
   {
     "id": "Katy Keene",
-    "label": "Katy Keene"
+    "label": "Katy Keene",
+    "group": "Other"
   },
   {
     "id": "Kickin' It",
-    "label": "Kickin' It"
+    "label": "Kickin' It",
+    "group": "Other"
   },
   {
     "id": "Kid of Degrassi Street",
-    "label": "Kid of Degrassi Street"
+    "label": "Kid of Degrassi Street",
+    "group": "Degrassi"
   },
   {
     "id": "Killer Instinct",
-    "label": "Killer Instinct"
+    "label": "Killer Instinct",
+    "group": "Other"
   },
   {
     "id": "Kingdom",
-    "label": "Kingdom"
+    "label": "Kingdom",
+    "group": "Other"
   },
   {
     "id": "Kingdom Hospital",
-    "label": "Kingdom Hospital"
+    "label": "Kingdom Hospital",
+    "group": "Other"
   },
   {
     "id": "Kirby Buckets",
-    "label": "Kirby Buckets"
+    "label": "Kirby Buckets",
+    "group": "Other"
   },
   {
     "id": "Knight Rider",
-    "label": "Knight Rider"
+    "label": "Knight Rider",
+    "group": "Other"
   },
   {
     "id": "Knight Squad",
-    "label": "Knight Squad"
+    "label": "Knight Squad",
+    "group": "Other"
   },
   {
     "id": "L.A. Law",
-    "label": "L.A. Law"
+    "label": "L.A. Law",
+    "group": "Other"
   },
   {
     "id": "LAX",
-    "label": "LAX"
+    "label": "LAX",
+    "group": "Other"
   },
   {
     "id": "Lab Rats",
-    "label": "Lab Rats"
+    "label": "Lab Rats",
+    "group": "Other"
   },
   {
     "id": "Lab Rats: Elite Force",
-    "label": "Lab Rats: Elite Force"
+    "label": "Lab Rats: Elite Force",
+    "group": "Other"
   },
   {
     "id": "Las Vegas",
-    "label": "Las Vegas"
+    "label": "Las Vegas",
+    "group": "Other"
   },
   {
     "id": "Laverne and Shirley",
-    "label": "Laverne and Shirley"
+    "label": "Laverne and Shirley",
+    "group": "Other"
   },
   {
     "id": "Law & Order",
-    "label": "Law & Order"
+    "label": "Law & Order",
+    "group": "Law & Order"
   },
   {
     "id": "Law & Order: Criminal Intent",
-    "label": "Law & Order: Criminal Intent"
+    "label": "Law & Order: Criminal Intent",
+    "group": "Law & Order"
   },
   {
     "id": "Law & Order: LA",
-    "label": "Law & Order: LA"
+    "label": "Law & Order: LA",
+    "group": "Law & Order"
   },
   {
     "id": "Law & Order: Special Victims Unit",
-    "label": "Law & Order: Special Victims Unit"
+    "label": "Law & Order: Special Victims Unit",
+    "group": "Law & Order"
   },
   {
     "id": "Law & Order: UK",
-    "label": "Law & Order: UK"
+    "label": "Law & Order: UK",
+    "group": "Law & Order"
   },
   {
     "id": "Leave It to Beaver",
-    "label": "Leave It to Beaver"
+    "label": "Leave It to Beaver",
+    "group": "Other"
   },
   {
     "id": "Legends of Tomorrow",
-    "label": "Legends of Tomorrow"
+    "label": "Legends of Tomorrow",
+    "group": "Marvel"
   },
   {
     "id": "Legit",
-    "label": "Legit"
+    "label": "Legit",
+    "group": "Other"
   },
   {
     "id": "Lethal Weapon (2016)",
-    "label": "Lethal Weapon (2016)"
+    "label": "Lethal Weapon (2016)",
+    "group": "Other"
   },
   {
     "id": "Lie to Me",
-    "label": "Lie to Me"
+    "label": "Lie to Me",
+    "group": "Other"
   },
   {
     "id": "Life",
-    "label": "Life"
+    "label": "Life",
+    "group": "Other"
   },
   {
     "id": "Liv and Maddie",
-    "label": "Liv and Maddie"
+    "label": "Liv and Maddie",
+    "group": "Other"
   },
   {
     "id": "Loki",
-    "label": "Loki"
+    "label": "Loki",
+    "group": "Other"
   },
   {
     "id": "Lone Gunman",
-    "label": "Lone Gunman"
+    "label": "Lone Gunman",
+    "group": "The X-Files"
   },
   {
     "id": "Lone Gunmen",
-    "label": "Lone Gunmen"
+    "label": "Lone Gunmen",
+    "group": "Other"
   },
   {
     "id": "Longmire",
-    "label": "Longmire"
+    "label": "Longmire",
+    "group": "Other"
   },
   {
     "id": "Lost",
-    "label": "Lost"
+    "label": "Lost",
+    "group": "Other"
   },
   {
     "id": "Lou Grant",
-    "label": "Lou Grant"
+    "label": "Lou Grant",
+    "group": "Other"
   },
   {
     "id": "Love and War",
-    "label": "Love and War"
+    "label": "Love and War",
+    "group": "Other"
   },
   {
     "id": "Love, American Style",
-    "label": "Love, American Style"
+    "label": "Love, American Style",
+    "group": "Other"
   },
   {
     "id": "Lovers and Friends",
-    "label": "Lovers and Friends"
+    "label": "Lovers and Friends",
+    "group": "Friends / Melrose"
   },
   {
     "id": "Loving",
-    "label": "Loving"
+    "label": "Loving",
+    "group": "Other"
   },
   {
     "id": "Lucifer",
-    "label": "Lucifer"
+    "label": "Lucifer",
+    "group": "Other"
   },
   {
     "id": "Luke Cage",
-    "label": "Luke Cage"
+    "label": "Luke Cage",
+    "group": "Marvel"
   },
   {
     "id": "Luther",
-    "label": "Luther"
+    "label": "Luther",
+    "group": "Other"
   },
   {
     "id": "M*A*S*H",
-    "label": "M*A*S*H"
+    "label": "M*A*S*H",
+    "group": "M*A*S*H"
   },
   {
     "id": "MCU",
-    "label": "MCU"
+    "label": "MCU",
+    "group": "Marvel"
   },
   {
     "id": "MacGyver",
-    "label": "MacGyver"
+    "label": "MacGyver",
+    "group": "Other"
   },
   {
     "id": "Mad About You",
-    "label": "Mad About You"
+    "label": "Mad About You",
+    "group": "Friends / Melrose"
   },
   {
     "id": "Mad Men",
-    "label": "Mad Men"
+    "label": "Mad Men",
+    "group": "Other"
   },
   {
     "id": "Madman of the People",
-    "label": "Madman of the People"
+    "label": "Madman of the People",
+    "group": "Other"
   },
   {
     "id": "Magnum PI",
-    "label": "Magnum PI"
+    "label": "Magnum PI",
+    "group": "Other"
   },
   {
     "id": "Make Room for Daddy",
-    "label": "Make Room for Daddy"
+    "label": "Make Room for Daddy",
+    "group": "Other"
   },
   {
     "id": "Make Room for Granddaddy",
-    "label": "Make Room for Granddaddy"
+    "label": "Make Room for Granddaddy",
+    "group": "Other"
   },
   {
     "id": "Malcolm in the Middle",
-    "label": "Malcolm in the Middle"
+    "label": "Malcolm in the Middle",
+    "group": "Other"
   },
   {
     "id": "Man About the House",
-    "label": "Man About the House"
+    "label": "Man About the House",
+    "group": "Other"
   },
   {
     "id": "Mannix",
-    "label": "Mannix"
+    "label": "Mannix",
+    "group": "Other"
   },
   {
     "id": "Married... with Children",
-    "label": "Married... with Children"
+    "label": "Married... with Children",
+    "group": "Other"
   },
   {
     "id": "Martial Law",
-    "label": "Martial Law"
+    "label": "Martial Law",
+    "group": "Other"
   },
   {
     "id": "Martin",
-    "label": "Martin"
+    "label": "Martin",
+    "group": "Other"
   },
   {
     "id": "Marvin Marvin",
-    "label": "Marvin Marvin"
+    "label": "Marvin Marvin",
+    "group": "Other"
   },
   {
     "id": "Matlock",
-    "label": "Matlock"
+    "label": "Matlock",
+    "group": "Other"
   },
   {
     "id": "Matt Houston",
-    "label": "Matt Houston"
+    "label": "Matt Houston",
+    "group": "Other"
   },
   {
     "id": "Maude",
-    "label": "Maude"
+    "label": "Maude",
+    "group": "Other"
   },
   {
     "id": "Mayberry R.F.D",
-    "label": "Mayberry R.F.D"
+    "label": "Mayberry R.F.D",
+    "group": "Andy Griffith"
   },
   {
     "id": "Medical Investigations",
-    "label": "Medical Investigations"
+    "label": "Medical Investigations",
+    "group": "Other"
   },
   {
     "id": "Medium",
-    "label": "Medium"
+    "label": "Medium",
+    "group": "Other"
   },
   {
     "id": "Meego",
-    "label": "Meego"
+    "label": "Meego",
+    "group": "Other"
   },
   {
     "id": "Melissa and Joey",
-    "label": "Melissa and Joey"
+    "label": "Melissa and Joey",
+    "group": "Other"
   },
   {
     "id": "Melrose Place",
-    "label": "Melrose Place"
+    "label": "Melrose Place",
+    "group": "Friends / Melrose"
   },
   {
     "id": "Method and Red",
-    "label": "Method and Red"
+    "label": "Method and Red",
+    "group": "Other"
   },
   {
     "id": "Miami Vice",
-    "label": "Miami Vice"
+    "label": "Miami Vice",
+    "group": "Other"
   },
   {
     "id": "Mighty Med",
-    "label": "Mighty Med"
+    "label": "Mighty Med",
+    "group": "Other"
   },
   {
     "id": "Millennium",
-    "label": "Millennium"
+    "label": "Millennium",
+    "group": "The X-Files"
   },
   {
     "id": "Milo Murphy's Law",
-    "label": "Milo Murphy's Law"
+    "label": "Milo Murphy's Law",
+    "group": "Other"
   },
   {
     "id": "Mission Magic",
-    "label": "Mission Magic"
+    "label": "Mission Magic",
+    "group": "Other"
   },
   {
     "id": "Mission: Impossible (1966)",
-    "label": "Mission: Impossible (1966)"
+    "label": "Mission: Impossible (1966)",
+    "group": "Mission: Impossible"
   },
   {
     "id": "Mission: Impossible (1988)",
-    "label": "Mission: Impossible (1988)"
+    "label": "Mission: Impossible (1988)",
+    "group": "Mission: Impossible"
   },
   {
     "id": "Mister Ed",
-    "label": "Mister Ed"
+    "label": "Mister Ed",
+    "group": "Other"
   },
   {
     "id": "Mockingbird Lane",
-    "label": "Mockingbird Lane"
+    "label": "Mockingbird Lane",
+    "group": "Other"
   },
   {
     "id": "Models, Inc",
-    "label": "Models, Inc"
+    "label": "Models, Inc",
+    "group": "Other"
   },
   {
     "id": "Modern Family",
-    "label": "Modern Family"
+    "label": "Modern Family",
+    "group": "Other"
   },
   {
     "id": "Moesha",
-    "label": "Moesha"
+    "label": "Moesha",
+    "group": "Other"
   },
   {
     "id": "Monk",
-    "label": "Monk"
+    "label": "Monk",
+    "group": "Other"
   },
   {
     "id": "Moonlighting",
-    "label": "Moonlighting"
+    "label": "Moonlighting",
+    "group": "Other"
   },
   {
     "id": "More Tales of the City",
-    "label": "More Tales of the City"
+    "label": "More Tales of the City",
+    "group": "Other"
   },
   {
     "id": "Mork and Mindy",
-    "label": "Mork and Mindy"
+    "label": "Mork and Mindy",
+    "group": "Other"
   },
   {
     "id": "Mr. Mercedes",
-    "label": "Mr. Mercedes"
+    "label": "Mr. Mercedes",
+    "group": "Other"
   },
   {
     "id": "Mr. Moseby (Suite Life Series)",
-    "label": "Mr. Moseby (Suite Life Series)"
+    "label": "Mr. Moseby (Suite Life Series)",
+    "group": "Other"
   },
   {
     "id": "Mr. Robot",
-    "label": "Mr. Robot"
+    "label": "Mr. Robot",
+    "group": "Other"
   },
   {
     "id": "Mrs. Columbo",
-    "label": "Mrs. Columbo"
+    "label": "Mrs. Columbo",
+    "group": "Other"
   },
   {
     "id": "Munster Go Home",
-    "label": "Munster Go Home"
+    "label": "Munster Go Home",
+    "group": "The Munsters"
   },
   {
     "id": "Murder She Wrote",
-    "label": "Murder She Wrote"
+    "label": "Murder She Wrote",
+    "group": "Other"
   },
   {
     "id": "Murphy Brown",
-    "label": "Murphy Brown"
+    "label": "Murphy Brown",
+    "group": "Other"
   },
   {
     "id": "My Mother the Car",
-    "label": "My Mother the Car"
+    "label": "My Mother the Car",
+    "group": "Other"
   },
   {
     "id": "My Name Is Earl",
-    "label": "My Name Is Earl"
+    "label": "My Name Is Earl",
+    "group": "Other"
   },
   {
     "id": "NCIS",
-    "label": "NCIS"
+    "label": "NCIS",
+    "group": "NCIS"
   },
   {
     "id": "NCIS LA",
-    "label": "NCIS LA"
+    "label": "NCIS LA",
+    "group": "NCIS"
   },
   {
     "id": "NCIS NO",
-    "label": "NCIS NO"
+    "label": "NCIS NO",
+    "group": "NCIS"
   },
   {
     "id": "NCIS: New Orleans",
-    "label": "NCIS: New Orleans"
+    "label": "NCIS: New Orleans",
+    "group": "NCIS"
   },
   {
     "id": "NYPD Blue",
-    "label": "NYPD Blue"
+    "label": "NYPD Blue",
+    "group": "Other"
   },
   {
     "id": "Naked City",
-    "label": "Naked City"
+    "label": "Naked City",
+    "group": "Other"
   },
   {
     "id": "Nash Bridges",
-    "label": "Nash Bridges"
+    "label": "Nash Bridges",
+    "group": "Other"
   },
   {
     "id": "New Amsterdam",
-    "label": "New Amsterdam"
+    "label": "New Amsterdam",
+    "group": "Other"
   },
   {
     "id": "New Girl",
-    "label": "New Girl"
+    "label": "New Girl",
+    "group": "Other"
   },
   {
     "id": "New York Undercover",
-    "label": "New York Undercover"
+    "label": "New York Undercover",
+    "group": "Other"
   },
   {
     "id": "Newhart",
-    "label": "Newhart"
+    "label": "Newhart",
+    "group": "Other"
   },
   {
     "id": "Nikki",
-    "label": "Nikki"
+    "label": "Nikki",
+    "group": "Other"
   },
   {
     "id": "Ninja Turtles: The Next Mutation",
-    "label": "Ninja Turtles: The Next Mutation"
+    "label": "Ninja Turtles: The Next Mutation",
+    "group": "Other"
   },
   {
     "id": "Nip/Tuck",
-    "label": "Nip/Tuck"
+    "label": "Nip/Tuck",
+    "group": "Other"
   },
   {
     "id": "OZ",
-    "label": "OZ"
+    "label": "OZ",
+    "group": "Other"
   },
   {
     "id": "Once Upon a Time",
-    "label": "Once Upon a Time"
+    "label": "Once Upon a Time",
+    "group": "Other"
   },
   {
     "id": "Once Upon a Time: In Wonderland",
-    "label": "Once Upon a Time: In Wonderland"
+    "label": "Once Upon a Time: In Wonderland",
+    "group": "Other"
   },
   {
     "id": "One Life to Live",
-    "label": "One Life to Live"
+    "label": "One Life to Live",
+    "group": "Other"
   },
   {
     "id": "Orange Is the New Black",
-    "label": "Orange Is the New Black"
+    "label": "Orange Is the New Black",
+    "group": "Other"
   },
   {
     "id": "Our Private World",
-    "label": "Our Private World"
+    "label": "Our Private World",
+    "group": "Other"
   },
   {
     "id": "Out All Night",
-    "label": "Out All Night"
+    "label": "Out All Night",
+    "group": "Other"
   },
   {
     "id": "Out of the Blue",
-    "label": "Out of the Blue"
+    "label": "Out of the Blue",
+    "group": "Other"
   },
   {
     "id": "Pair of Kings",
-    "label": "Pair of Kings"
+    "label": "Pair of Kings",
+    "group": "Other"
   },
   {
     "id": "Parker Lewis Can't Lose",
-    "label": "Parker Lewis Can't Lose"
+    "label": "Parker Lewis Can't Lose",
+    "group": "Other"
   },
   {
     "id": "Parks and Rec",
-    "label": "Parks and Rec"
+    "label": "Parks and Rec",
+    "group": "Other"
   },
   {
     "id": "Parks and Recreation",
-    "label": "Parks and Recreation"
+    "label": "Parks and Recreation",
+    "group": "Other"
   },
   {
     "id": "Party of Five",
-    "label": "Party of Five"
+    "label": "Party of Five",
+    "group": "Other"
   },
   {
     "id": "Passions",
-    "label": "Passions"
+    "label": "Passions",
+    "group": "Other"
   },
   {
     "id": "Perfect Strangers",
-    "label": "Perfect Strangers"
+    "label": "Perfect Strangers",
+    "group": "Other"
   },
   {
     "id": "Perry Mason",
-    "label": "Perry Mason"
+    "label": "Perry Mason",
+    "group": "Other"
   },
   {
     "id": "Phineas and Ferb",
-    "label": "Phineas and Ferb"
+    "label": "Phineas and Ferb",
+    "group": "Other"
   },
   {
     "id": "Phyllis",
-    "label": "Phyllis"
+    "label": "Phyllis",
+    "group": "Other"
   },
   {
     "id": "Picket Fences",
-    "label": "Picket Fences"
+    "label": "Picket Fences",
+    "group": "Other"
   },
   {
     "id": "Play It Again, Dick",
-    "label": "Play It Again, Dick"
+    "label": "Play It Again, Dick",
+    "group": "Other"
   },
   {
     "id": "Port Charles",
-    "label": "Port Charles"
+    "label": "Port Charles",
+    "group": "Other"
   },
   {
     "id": "Power Rangers",
-    "label": "Power Rangers"
+    "label": "Power Rangers",
+    "group": "Other"
   },
   {
     "id": "Pretty Little Liars",
-    "label": "Pretty Little Liars"
+    "label": "Pretty Little Liars",
+    "group": "Other"
   },
   {
     "id": "Prison Break",
-    "label": "Prison Break"
+    "label": "Prison Break",
+    "group": "Other"
   },
   {
     "id": "Prison Break: Point of Innocence",
-    "label": "Prison Break: Point of Innocence"
+    "label": "Prison Break: Point of Innocence",
+    "group": "Other"
   },
   {
     "id": "Prison Break: Proof of Innocence",
-    "label": "Prison Break: Proof of Innocence"
+    "label": "Prison Break: Proof of Innocence",
+    "group": "Other"
   },
   {
     "id": "Private Practice",
-    "label": "Private Practice"
+    "label": "Private Practice",
+    "group": "Grey's Anatomy"
   },
   {
     "id": "Private Secretary",
-    "label": "Private Secretary"
+    "label": "Private Secretary",
+    "group": "Other"
   },
   {
     "id": "Promise Land",
-    "label": "Promise Land"
+    "label": "Promise Land",
+    "group": "Other"
   },
   {
     "id": "Providence",
-    "label": "Providence"
+    "label": "Providence",
+    "group": "Other"
   },
   {
     "id": "Psycho",
-    "label": "Psycho"
+    "label": "Psycho",
+    "group": "Other"
   },
   {
     "id": "Public Morals",
-    "label": "Public Morals"
+    "label": "Public Morals",
+    "group": "Other"
   },
   {
     "id": "Pushing Daisies",
-    "label": "Pushing Daisies"
+    "label": "Pushing Daisies",
+    "group": "Other"
   },
   {
     "id": "Quantum Leap",
-    "label": "Quantum Leap"
+    "label": "Quantum Leap",
+    "group": "Other"
   },
   {
     "id": "Quincy, M.E.",
-    "label": "Quincy, M.E."
+    "label": "Quincy, M.E.",
+    "group": "Other"
   },
   {
     "id": "Raising Hope",
-    "label": "Raising Hope"
+    "label": "Raising Hope",
+    "group": "Other"
   },
   {
     "id": "Raven's Home",
-    "label": "Raven's Home"
+    "label": "Raven's Home",
+    "group": "Other"
   },
   {
     "id": "Ray Donovan",
-    "label": "Ray Donovan"
+    "label": "Ray Donovan",
+    "group": "Other"
   },
   {
     "id": "Reaper",
-    "label": "Reaper"
+    "label": "Reaper",
+    "group": "Other"
   },
   {
     "id": "Red Dwarf",
-    "label": "Red Dwarf"
+    "label": "Red Dwarf",
+    "group": "Other"
   },
   {
     "id": "Remington Steele",
-    "label": "Remington Steele"
+    "label": "Remington Steele",
+    "group": "Other"
   },
   {
     "id": "Rhoda",
-    "label": "Rhoda"
+    "label": "Rhoda",
+    "group": "Other"
   },
   {
     "id": "Riverdale",
-    "label": "Riverdale"
+    "label": "Riverdale",
+    "group": "Other"
   },
   {
     "id": "Rizzoli and Isles",
-    "label": "Rizzoli and Isles"
+    "label": "Rizzoli and Isles",
+    "group": "Other"
   },
   {
     "id": "Rose Wood",
-    "label": "Rose Wood"
+    "label": "Rose Wood",
+    "group": "Other"
   },
   {
     "id": "Roseanne",
-    "label": "Roseanne"
+    "label": "Roseanne",
+    "group": "Other"
   },
   {
     "id": "Run Aways",
-    "label": "Run Aways"
+    "label": "Run Aways",
+    "group": "Other"
   },
   {
     "id": "Running Wilde",
-    "label": "Running Wilde"
+    "label": "Running Wilde",
+    "group": "Other"
   },
   {
     "id": "Ryan's Hope",
-    "label": "Ryan's Hope"
+    "label": "Ryan's Hope",
+    "group": "Other"
   },
   {
     "id": "Sabrina the Teenage Witch",
-    "label": "Sabrina the Teenage Witch"
+    "label": "Sabrina the Teenage Witch",
+    "group": "Other"
   },
   {
     "id": "Sam and Cat",
-    "label": "Sam and Cat"
+    "label": "Sam and Cat",
+    "group": "Other"
   },
   {
     "id": "Sarah Jane Advent.",
-    "label": "Sarah Jane Advent."
+    "label": "Sarah Jane Advent.",
+    "group": "Doctor Who"
   },
   {
     "id": "Sarah Jane Adventures",
-    "label": "Sarah Jane Adventures"
+    "label": "Sarah Jane Adventures",
+    "group": "Doctor Who"
   },
   {
     "id": "Sarah Jane Alien Advent.",
-    "label": "Sarah Jane Alien Advent."
+    "label": "Sarah Jane Alien Advent.",
+    "group": "Doctor Who"
   },
   {
     "id": "Sarah Jane: Alien Adventures",
-    "label": "Sarah Jane: Alien Adventures"
+    "label": "Sarah Jane: Alien Adventures",
+    "group": "Doctor Who"
   },
   {
     "id": "Saved by the Bell",
-    "label": "Saved by the Bell"
+    "label": "Saved by the Bell",
+    "group": "Saved by the Bell"
   },
   {
     "id": "Saved by the Bell: College Years",
-    "label": "Saved by the Bell: College Years"
+    "label": "Saved by the Bell: College Years",
+    "group": "Saved by the Bell"
   },
   {
     "id": "Saved by the Bell: Next Class",
-    "label": "Saved by the Bell: Next Class"
+    "label": "Saved by the Bell: Next Class",
+    "group": "Saved by the Bell"
   },
   {
     "id": "Saving Grace",
-    "label": "Saving Grace"
+    "label": "Saving Grace",
+    "group": "Other"
   },
   {
     "id": "Scandal",
-    "label": "Scandal"
+    "label": "Scandal",
+    "group": "Other"
   },
   {
     "id": "Scorpion",
-    "label": "Scorpion"
+    "label": "Scorpion",
+    "group": "Other"
   },
   {
     "id": "Scrubs",
-    "label": "Scrubs"
+    "label": "Scrubs",
+    "group": "Other"
   },
   {
     "id": "Search for Tomorrow",
-    "label": "Search for Tomorrow"
+    "label": "Search for Tomorrow",
+    "group": "Other"
   },
   {
     "id": "Seinfeld",
-    "label": "Seinfeld"
+    "label": "Seinfeld",
+    "group": "Seinfeld"
   },
   {
     "id": "Shake It Up",
-    "label": "Shake It Up"
+    "label": "Shake It Up",
+    "group": "Other"
   },
   {
     "id": "Shameless",
-    "label": "Shameless"
+    "label": "Shameless",
+    "group": "Other"
   },
   {
     "id": "Sherlock",
-    "label": "Sherlock"
+    "label": "Sherlock",
+    "group": "Other"
   },
   {
     "id": "Shooter",
-    "label": "Shooter"
+    "label": "Shooter",
+    "group": "Other"
   },
   {
     "id": "Sierra",
-    "label": "Sierra"
+    "label": "Sierra",
+    "group": "Other"
   },
   {
     "id": "Silicon Valley",
-    "label": "Silicon Valley"
+    "label": "Silicon Valley",
+    "group": "Other"
   },
   {
     "id": "Silver Spoons",
-    "label": "Silver Spoons"
+    "label": "Silver Spoons",
+    "group": "Other"
   },
   {
     "id": "Simon and Simon",
-    "label": "Simon and Simon"
+    "label": "Simon and Simon",
+    "group": "Other"
   },
   {
     "id": "Single Guy",
-    "label": "Single Guy"
+    "label": "Single Guy",
+    "group": "Other"
   },
   {
     "id": "Sister, Sister",
-    "label": "Sister, Sister"
+    "label": "Sister, Sister",
+    "group": "Other"
   },
   {
     "id": "Six",
-    "label": "Six"
+    "label": "Six",
+    "group": "Other"
   },
   {
     "id": "Sleepy Hollow",
-    "label": "Sleepy Hollow"
+    "label": "Sleepy Hollow",
+    "group": "Other"
   },
   {
     "id": "Soap",
-    "label": "Soap"
+    "label": "Soap",
+    "group": "Other"
   },
   {
     "id": "Somerset",
-    "label": "Somerset"
+    "label": "Somerset",
+    "group": "Other"
   },
   {
     "id": "Something so Right",
-    "label": "Something so Right"
+    "label": "Something so Right",
+    "group": "Other"
   },
   {
     "id": "Sons of Anarchy",
-    "label": "Sons of Anarchy"
+    "label": "Sons of Anarchy",
+    "group": "Other"
   },
   {
     "id": "Sons of Thunder",
-    "label": "Sons of Thunder"
+    "label": "Sons of Thunder",
+    "group": "Other"
   },
   {
     "id": "Sordid Lives",
-    "label": "Sordid Lives"
+    "label": "Sordid Lives",
+    "group": "Other"
   },
   {
     "id": "Soul Man",
-    "label": "Soul Man"
+    "label": "Soul Man",
+    "group": "Other"
   },
   {
     "id": "Space Above and Beyond",
-    "label": "Space Above and Beyond"
+    "label": "Space Above and Beyond",
+    "group": "Other"
   },
   {
     "id": "Space: 1999",
-    "label": "Space: 1999"
+    "label": "Space: 1999",
+    "group": "Other"
   },
   {
     "id": "Special Unit 2",
-    "label": "Special Unit 2"
+    "label": "Special Unit 2",
+    "group": "Other"
   },
   {
     "id": "Spin City",
-    "label": "Spin City"
+    "label": "Spin City",
+    "group": "Other"
   },
   {
     "id": "Sports Night",
-    "label": "Sports Night"
+    "label": "Sports Night",
+    "group": "Other"
   },
   {
     "id": "Square Pegs",
-    "label": "Square Pegs"
+    "label": "Square Pegs",
+    "group": "Other"
   },
   {
     "id": "St. Elsewhere",
-    "label": "St. Elsewhere"
+    "label": "St. Elsewhere",
+    "group": "Other"
   },
   {
     "id": "Star Trek",
-    "label": "Star Trek"
+    "label": "Star Trek",
+    "group": "Star Trek"
   },
   {
     "id": "Star Trek: Deep Space Nine",
-    "label": "Star Trek: Deep Space Nine"
+    "label": "Star Trek: Deep Space Nine",
+    "group": "Star Trek"
   },
   {
     "id": "Star Trek: Discovery",
-    "label": "Star Trek: Discovery"
+    "label": "Star Trek: Discovery",
+    "group": "Star Trek"
   },
   {
     "id": "Star Trek: Enterprise",
-    "label": "Star Trek: Enterprise"
+    "label": "Star Trek: Enterprise",
+    "group": "Star Trek"
   },
   {
     "id": "Star Trek: Picard",
-    "label": "Star Trek: Picard"
+    "label": "Star Trek: Picard",
+    "group": "Star Trek"
   },
   {
     "id": "Star Trek: The Next Generation",
-    "label": "Star Trek: The Next Generation"
+    "label": "Star Trek: The Next Generation",
+    "group": "Star Trek"
   },
   {
     "id": "Star Trek: Voyager",
-    "label": "Star Trek: Voyager"
+    "label": "Star Trek: Voyager",
+    "group": "Star Trek"
   },
   {
     "id": "Stargate: Atlantis",
-    "label": "Stargate: Atlantis"
+    "label": "Stargate: Atlantis",
+    "group": "Stargate"
   },
   {
     "id": "Stargate: Sg-1",
-    "label": "Stargate: Sg-1"
+    "label": "Stargate: Sg-1",
+    "group": "Stargate"
   },
   {
     "id": "Stargate: Universe",
-    "label": "Stargate: Universe"
+    "label": "Stargate: Universe",
+    "group": "Stargate"
   },
   {
     "id": "Station 19",
-    "label": "Station 19"
+    "label": "Station 19",
+    "group": "Grey's Anatomy"
   },
   {
     "id": "Station 51",
-    "label": "Station 51"
+    "label": "Station 51",
+    "group": "Other"
   },
   {
     "id": "Step by Step",
-    "label": "Step by Step"
+    "label": "Step by Step",
+    "group": "Other"
   },
   {
     "id": "Strange Luck",
-    "label": "Strange Luck"
+    "label": "Strange Luck",
+    "group": "Other"
   },
   {
     "id": "Super Girl",
-    "label": "Super Girl"
+    "label": "Super Girl",
+    "group": "Marvel"
   },
   {
     "id": "Supernatural",
-    "label": "Supernatural"
+    "label": "Supernatural",
+    "group": "Supernatural"
   },
   {
     "id": "Suspected Behavior",
-    "label": "Suspected Behavior"
+    "label": "Suspected Behavior",
+    "group": "Other"
   },
   {
     "id": "Switched at Birth",
-    "label": "Switched at Birth"
+    "label": "Switched at Birth",
+    "group": "Other"
   },
   {
     "id": "Tabitha",
-    "label": "Tabitha"
+    "label": "Tabitha",
+    "group": "Other"
   },
   {
     "id": "Tales of the City",
-    "label": "Tales of the City"
+    "label": "Tales of the City",
+    "group": "Other"
   },
   {
     "id": "Tattingers",
-    "label": "Tattingers"
+    "label": "Tattingers",
+    "group": "Cheers / Wings"
   },
   {
     "id": "Team Knight Rider",
-    "label": "Team Knight Rider"
+    "label": "Team Knight Rider",
+    "group": "Other"
   },
   {
     "id": "Teen Angel",
-    "label": "Teen Angel"
+    "label": "Teen Angel",
+    "group": "Other"
   },
   {
     "id": "Terminator: The Sarah Connor Chronicles",
-    "label": "Terminator: The Sarah Connor Chronicles"
+    "label": "Terminator: The Sarah Connor Chronicles",
+    "group": "Other"
   },
   {
     "id": "Texas",
-    "label": "Texas"
+    "label": "Texas",
+    "group": "Other"
   },
   {
     "id": "That 70's Show",
-    "label": "That 70's Show"
+    "label": "That 70's Show",
+    "group": "Other"
   },
   {
     "id": "That 80's Show",
-    "label": "That 80's Show"
+    "label": "That 80's Show",
+    "group": "Other"
   },
   {
     "id": "That's so Raven",
-    "label": "That's so Raven"
+    "label": "That's so Raven",
+    "group": "Other"
   },
   {
     "id": "The A-Team",
-    "label": "The A-Team"
+    "label": "The A-Team",
+    "group": "Other"
   },
   {
     "id": "The Addam's Family",
-    "label": "The Addam's Family"
+    "label": "The Addam's Family",
+    "group": "The Addams Family"
   },
   {
     "id": "The Americans",
-    "label": "The Americans"
+    "label": "The Americans",
+    "group": "Other"
   },
   {
     "id": "The Andy Griffith Show",
-    "label": "The Andy Griffith Show"
+    "label": "The Andy Griffith Show",
+    "group": "Andy Griffith"
   },
   {
     "id": "The Ann Sothern Show",
-    "label": "The Ann Sothern Show"
+    "label": "The Ann Sothern Show",
+    "group": "Other"
   },
   {
     "id": "The Art of Being Nick",
-    "label": "The Art of Being Nick"
+    "label": "The Art of Being Nick",
+    "group": "Other"
   },
   {
     "id": "The Beverly Hillbillies",
-    "label": "The Beverly Hillbillies"
+    "label": "The Beverly Hillbillies",
+    "group": "Other"
   },
   {
     "id": "The Big Bang Theory",
-    "label": "The Big Bang Theory"
+    "label": "The Big Bang Theory",
+    "group": "Other"
   },
   {
     "id": "The Bill Dana Show",
-    "label": "The Bill Dana Show"
+    "label": "The Bill Dana Show",
+    "group": "Other"
   },
   {
     "id": "The Bionic Woman",
-    "label": "The Bionic Woman"
+    "label": "The Bionic Woman",
+    "group": "Other"
   },
   {
     "id": "The Black List",
-    "label": "The Black List"
+    "label": "The Black List",
+    "group": "Other"
   },
   {
     "id": "The Bob Cumming Show",
-    "label": "The Bob Cumming Show"
+    "label": "The Bob Cumming Show",
+    "group": "Other"
   },
   {
     "id": "The Bob Cummings Show",
-    "label": "The Bob Cummings Show"
+    "label": "The Bob Cummings Show",
+    "group": "Other"
   },
   {
     "id": "The Bob Newhart Show",
-    "label": "The Bob Newhart Show"
+    "label": "The Bob Newhart Show",
+    "group": "Other"
   },
   {
     "id": "The Bold and the Beautiful",
-    "label": "The Bold and the Beautiful"
+    "label": "The Bold and the Beautiful",
+    "group": "Other"
   },
   {
     "id": "The Brady Brides",
-    "label": "The Brady Brides"
+    "label": "The Brady Brides",
+    "group": "The Brady Bunch"
   },
   {
     "id": "The Brady Bunch",
-    "label": "The Brady Bunch"
+    "label": "The Brady Bunch",
+    "group": "The Brady Bunch"
   },
   {
     "id": "The Bradys",
-    "label": "The Bradys"
+    "label": "The Bradys",
+    "group": "The Brady Bunch"
   },
   {
     "id": "The Chilling Adventure of Sabrina",
-    "label": "The Chilling Adventure of Sabrina"
+    "label": "The Chilling Adventure of Sabrina",
+    "group": "Other"
   },
   {
     "id": "The City",
-    "label": "The City"
+    "label": "The City",
+    "group": "Other"
   },
   {
     "id": "The Cosby Show",
-    "label": "The Cosby Show"
+    "label": "The Cosby Show",
+    "group": "Other"
   },
   {
     "id": "The D.A",
-    "label": "The D.A"
+    "label": "The D.A",
+    "group": "Other"
   },
   {
     "id": "The Defender",
-    "label": "The Defender"
+    "label": "The Defender",
+    "group": "Marvel"
   },
   {
     "id": "The Dick Van Dyke Show",
-    "label": "The Dick Van Dyke Show"
+    "label": "The Dick Van Dyke Show",
+    "group": "Bewitched"
   },
   {
     "id": "The Donna Reed Show",
-    "label": "The Donna Reed Show"
+    "label": "The Donna Reed Show",
+    "group": "Other"
   },
   {
     "id": "The Drew Carey Show",
-    "label": "The Drew Carey Show"
+    "label": "The Drew Carey Show",
+    "group": "Other"
   },
   {
     "id": "The Facts of Life",
-    "label": "The Facts of Life"
+    "label": "The Facts of Life",
+    "group": "Other"
   },
   {
     "id": "The Famous Teddy Z",
-    "label": "The Famous Teddy Z"
+    "label": "The Famous Teddy Z",
+    "group": "Other"
   },
   {
     "id": "The Finder",
-    "label": "The Finder"
+    "label": "The Finder",
+    "group": "Other"
   },
   {
     "id": "The Flying Nun",
-    "label": "The Flying Nun"
+    "label": "The Flying Nun",
+    "group": "Other"
   },
   {
     "id": "The Fresh Prince of Bel-Air",
-    "label": "The Fresh Prince of Bel-Air"
+    "label": "The Fresh Prince of Bel-Air",
+    "group": "Other"
   },
   {
     "id": "The Game",
-    "label": "The Game"
+    "label": "The Game",
+    "group": "Other"
   },
   {
     "id": "The Garry Shandling's Show",
-    "label": "The Garry Shandling's Show"
+    "label": "The Garry Shandling's Show",
+    "group": "Other"
   },
   {
     "id": "The Geena Davis Show",
-    "label": "The Geena Davis Show"
+    "label": "The Geena Davis Show",
+    "group": "Other"
   },
   {
     "id": "The George Burns and Gracie Allen Show",
-    "label": "The George Burns and Gracie Allen Show"
+    "label": "The George Burns and Gracie Allen Show",
+    "group": "Other"
   },
   {
     "id": "The Goldbergs",
-    "label": "The Goldbergs"
+    "label": "The Goldbergs",
+    "group": "Other"
   },
   {
     "id": "The Golden Girls",
-    "label": "The Golden Girls"
+    "label": "The Golden Girls",
+    "group": "The Golden Girls"
   },
   {
     "id": "The Golden Palace",
-    "label": "The Golden Palace"
+    "label": "The Golden Palace",
+    "group": "The Golden Girls"
   },
   {
     "id": "The Good Place",
-    "label": "The Good Place"
+    "label": "The Good Place",
+    "group": "Other"
   },
   {
     "id": "The Great Indoors",
-    "label": "The Great Indoors"
+    "label": "The Great Indoors",
+    "group": "Other"
   },
   {
     "id": "The Green Hornet",
-    "label": "The Green Hornet"
+    "label": "The Green Hornet",
+    "group": "Other"
   },
   {
     "id": "The Haunted Hathaways",
-    "label": "The Haunted Hathaways"
+    "label": "The Haunted Hathaways",
+    "group": "Other"
   },
   {
     "id": "The Hitchhiker's Guide to the Galaxy",
-    "label": "The Hitchhiker's Guide to the Galaxy"
+    "label": "The Hitchhiker's Guide to the Galaxy",
+    "group": "Other"
   },
   {
     "id": "The Honey Mooners",
-    "label": "The Honey Mooners"
+    "label": "The Honey Mooners",
+    "group": "Other"
   },
   {
     "id": "The Hughleys",
-    "label": "The Hughleys"
+    "label": "The Hughleys",
+    "group": "Other"
   },
   {
     "id": "The Jackie Gleason Show",
-    "label": "The Jackie Gleason Show"
+    "label": "The Jackie Gleason Show",
+    "group": "Other"
   },
   {
     "id": "The Jeffersons",
-    "label": "The Jeffersons"
+    "label": "The Jeffersons",
+    "group": "Other"
   },
   {
     "id": "The Joey Bishop Show",
-    "label": "The Joey Bishop Show"
+    "label": "The Joey Bishop Show",
+    "group": "Other"
   },
   {
     "id": "The John Larroquette Show",
-    "label": "The John Larroquette Show"
+    "label": "The John Larroquette Show",
+    "group": "Other"
   },
   {
     "id": "The King of Queens",
-    "label": "The King of Queens"
+    "label": "The King of Queens",
+    "group": "Other"
   },
   {
     "id": "The Knightingales",
-    "label": "The Knightingales"
+    "label": "The Knightingales",
+    "group": "Other"
   },
   {
     "id": "The L Word",
-    "label": "The L Word"
+    "label": "The L Word",
+    "group": "Other"
   },
   {
     "id": "The Last Man on Earth",
-    "label": "The Last Man on Earth"
+    "label": "The Last Man on Earth",
+    "group": "Other"
   },
   {
     "id": "The Law and Mcgraw",
-    "label": "The Law and Mcgraw"
+    "label": "The Law and Mcgraw",
+    "group": "Other"
   },
   {
     "id": "The League",
-    "label": "The League"
+    "label": "The League",
+    "group": "Other"
   },
   {
     "id": "The Librarians",
-    "label": "The Librarians"
+    "label": "The Librarians",
+    "group": "Other"
   },
   {
     "id": "The Love Boat",
-    "label": "The Love Boat"
+    "label": "The Love Boat",
+    "group": "The Love Boat"
   },
   {
     "id": "The Lucy Show",
-    "label": "The Lucy Show"
+    "label": "The Lucy Show",
+    "group": "Other"
   },
   {
     "id": "The Magicians",
-    "label": "The Magicians"
+    "label": "The Magicians",
+    "group": "Other"
   },
   {
     "id": "The Many Loves of Dobie Gillis",
-    "label": "The Many Loves of Dobie Gillis"
+    "label": "The Many Loves of Dobie Gillis",
+    "group": "Other"
   },
   {
     "id": "The Mary Tyler Moore Show",
-    "label": "The Mary Tyler Moore Show"
+    "label": "The Mary Tyler Moore Show",
+    "group": "Other"
   },
   {
     "id": "The Middle",
-    "label": "The Middle"
+    "label": "The Middle",
+    "group": "Other"
   },
   {
     "id": "The Mindy Project",
-    "label": "The Mindy Project"
+    "label": "The Mindy Project",
+    "group": "Other"
   },
   {
     "id": "The Munsters",
-    "label": "The Munsters"
+    "label": "The Munsters",
+    "group": "The Munsters"
   },
   {
     "id": "The Munsters Revenge",
-    "label": "The Munsters Revenge"
+    "label": "The Munsters Revenge",
+    "group": "The Munsters"
   },
   {
     "id": "The Nanny",
-    "label": "The Nanny"
+    "label": "The Nanny",
+    "group": "Other"
   },
   {
     "id": "The New Andy Griffin Show",
-    "label": "The New Andy Griffin Show"
+    "label": "The New Andy Griffin Show",
+    "group": "Other"
   },
   {
     "id": "The New Andy Griffith Show",
-    "label": "The New Andy Griffith Show"
+    "label": "The New Andy Griffith Show",
+    "group": "Andy Griffith"
   },
   {
     "id": "The New Gidget",
-    "label": "The New Gidget"
+    "label": "The New Gidget",
+    "group": "Other"
   },
   {
     "id": "The New Leave It to Beaver",
-    "label": "The New Leave It to Beaver"
+    "label": "The New Leave It to Beaver",
+    "group": "Other"
   },
   {
     "id": "The Norm Show",
-    "label": "The Norm Show"
+    "label": "The Norm Show",
+    "group": "Other"
   },
   {
     "id": "The Office (UK)",
-    "label": "The Office (UK)"
+    "label": "The Office (UK)",
+    "group": "The Office"
   },
   {
     "id": "The Office (US)",
-    "label": "The Office (US)"
+    "label": "The Office (US)",
+    "group": "The Office"
   },
   {
     "id": "The Originals",
-    "label": "The Originals"
+    "label": "The Originals",
+    "group": "Other"
   },
   {
     "id": "The Outer Limits",
-    "label": "The Outer Limits"
+    "label": "The Outer Limits",
+    "group": "Other"
   },
   {
     "id": "The Parkers",
-    "label": "The Parkers"
+    "label": "The Parkers",
+    "group": "Other"
   },
   {
     "id": "The Petticoat Junction",
-    "label": "The Petticoat Junction"
+    "label": "The Petticoat Junction",
+    "group": "Other"
   },
   {
     "id": "The Practice",
-    "label": "The Practice"
+    "label": "The Practice",
+    "group": "Other"
   },
   {
     "id": "The Pretender",
-    "label": "The Pretender"
+    "label": "The Pretender",
+    "group": "Other"
   },
   {
     "id": "The Punisher",
-    "label": "The Punisher"
+    "label": "The Punisher",
+    "group": "Marvel"
   },
   {
     "id": "The Ropers",
-    "label": "The Ropers"
+    "label": "The Ropers",
+    "group": "Three's Company"
   },
   {
     "id": "The Secret Life of an American Teenager",
-    "label": "The Secret Life of an American Teenager"
+    "label": "The Secret Life of an American Teenager",
+    "group": "Other"
   },
   {
     "id": "The Simple Life",
-    "label": "The Simple Life"
+    "label": "The Simple Life",
+    "group": "Other"
   },
   {
     "id": "The Simpsons",
-    "label": "The Simpsons"
+    "label": "The Simpsons",
+    "group": "The Simpsons"
   },
   {
     "id": "The Six Million Dollar Man",
-    "label": "The Six Million Dollar Man"
+    "label": "The Six Million Dollar Man",
+    "group": "Other"
   },
   {
     "id": "The Strain",
-    "label": "The Strain"
+    "label": "The Strain",
+    "group": "Other"
   },
   {
     "id": "The Suite Life Series",
-    "label": "The Suite Life Series"
+    "label": "The Suite Life Series",
+    "group": "Other"
   },
   {
     "id": "The Thundermans",
-    "label": "The Thundermans"
+    "label": "The Thundermans",
+    "group": "Other"
   },
   {
     "id": "The Tommy Westphall Universe",
-    "label": "The Tommy Westphall Universe"
+    "label": "The Tommy Westphall Universe",
+    "group": "Other"
   },
   {
     "id": "The Tortellis",
-    "label": "The Tortellis"
+    "label": "The Tortellis",
+    "group": "Other"
   },
   {
     "id": "The Twilight Zone",
-    "label": "The Twilight Zone"
+    "label": "The Twilight Zone",
+    "group": "The Twilight Zone"
   },
   {
     "id": "The Unbreakable Kimmy Schmidt",
-    "label": "The Unbreakable Kimmy Schmidt"
+    "label": "The Unbreakable Kimmy Schmidt",
+    "group": "Other"
   },
   {
     "id": "The Walking Dead",
-    "label": "The Walking Dead"
+    "label": "The Walking Dead",
+    "group": "Other"
   },
   {
     "id": "The War at Home",
-    "label": "The War at Home"
+    "label": "The War at Home",
+    "group": "Other"
   },
   {
     "id": "The White Shadow",
-    "label": "The White Shadow"
+    "label": "The White Shadow",
+    "group": "Other"
   },
   {
     "id": "The Wire",
-    "label": "The Wire"
+    "label": "The Wire",
+    "group": "Other"
   },
   {
     "id": "The X-Files",
-    "label": "The X-Files"
+    "label": "The X-Files",
+    "group": "The X-Files"
   },
   {
     "id": "The Young Married",
-    "label": "The Young Married"
+    "label": "The Young Married",
+    "group": "Other"
   },
   {
     "id": "The Young and the Restless",
-    "label": "The Young and the Restless"
+    "label": "The Young and the Restless",
+    "group": "Other"
   },
   {
     "id": "Third Watch",
-    "label": "Third Watch"
+    "label": "Third Watch",
+    "group": "Other"
   },
   {
     "id": "Three's Company",
-    "label": "Three's Company"
+    "label": "Three's Company",
+    "group": "Three's Company"
   },
   {
     "id": "Three's a Crowd",
-    "label": "Three's a Crowd"
+    "label": "Three's a Crowd",
+    "group": "Three's Company"
   },
   {
     "id": "Thunder Alley",
-    "label": "Thunder Alley"
+    "label": "Thunder Alley",
+    "group": "Other"
   },
   {
     "id": "Time of Your Life",
-    "label": "Time of Your Life"
+    "label": "Time of Your Life",
+    "group": "Other"
   },
   {
     "id": "Titans",
-    "label": "Titans"
+    "label": "Titans",
+    "group": "Other"
   },
   {
     "id": "Top of the Heap",
-    "label": "Top of the Heap"
+    "label": "Top of the Heap",
+    "group": "Other"
   },
   {
     "id": "Torch Wood",
-    "label": "Torch Wood"
+    "label": "Torch Wood",
+    "group": "Doctor Who"
   },
   {
     "id": "Touch",
-    "label": "Touch"
+    "label": "Touch",
+    "group": "Other"
   },
   {
     "id": "Touched by an Angel",
-    "label": "Touched by an Angel"
+    "label": "Touched by an Angel",
+    "group": "Other"
   },
   {
     "id": "Traffic Light",
-    "label": "Traffic Light"
+    "label": "Traffic Light",
+    "group": "Other"
   },
   {
     "id": "Trapper John, M.D.",
-    "label": "Trapper John, M.D."
+    "label": "Trapper John, M.D.",
+    "group": "Other"
   },
   {
     "id": "Trial by Jury",
-    "label": "Trial by Jury"
+    "label": "Trial by Jury",
+    "group": "Other"
   },
   {
     "id": "Tru Calling",
-    "label": "Tru Calling"
+    "label": "Tru Calling",
+    "group": "Other"
   },
   {
     "id": "Twin Peaks",
-    "label": "Twin Peaks"
+    "label": "Twin Peaks",
+    "group": "Twin Peaks"
   },
   {
     "id": "Twin Peaks: Fire Walk with Me",
-    "label": "Twin Peaks: Fire Walk with Me"
+    "label": "Twin Peaks: Fire Walk with Me",
+    "group": "Twin Peaks"
   },
   {
     "id": "Two Guys and a Girl",
-    "label": "Two Guys and a Girl"
+    "label": "Two Guys and a Girl",
+    "group": "Other"
   },
   {
     "id": "Two Guys and a Girl and a Pizza Place",
-    "label": "Two Guys and a Girl and a Pizza Place"
+    "label": "Two Guys and a Girl and a Pizza Place",
+    "group": "Other"
   },
   {
     "id": "Two and a Half Men",
-    "label": "Two and a Half Men"
+    "label": "Two and a Half Men",
+    "group": "Other"
   },
   {
     "id": "Tyrant",
-    "label": "Tyrant"
+    "label": "Tyrant",
+    "group": "Other"
   },
   {
     "id": "Ultimate Spider-Man",
-    "label": "Ultimate Spider-Man"
+    "label": "Ultimate Spider-Man",
+    "group": "Marvel"
   },
   {
     "id": "Undateable",
-    "label": "Undateable"
+    "label": "Undateable",
+    "group": "Other"
   },
   {
     "id": "Unfabulous",
-    "label": "Unfabulous"
+    "label": "Unfabulous",
+    "group": "Other"
   },
   {
     "id": "Unforgettable",
-    "label": "Unforgettable"
+    "label": "Unforgettable",
+    "group": "Other"
   },
   {
     "id": "Unhappily Ever After",
-    "label": "Unhappily Ever After"
+    "label": "Unhappily Ever After",
+    "group": "Other"
   },
   {
     "id": "United States of Tara",
-    "label": "United States of Tara"
+    "label": "United States of Tara",
+    "group": "Other"
   },
   {
     "id": "Up All Night",
-    "label": "Up All Night"
+    "label": "Up All Night",
+    "group": "Other"
   },
   {
     "id": "Vegas",
-    "label": "Vegas"
+    "label": "Vegas",
+    "group": "Other"
   },
   {
     "id": "Veronica Mars",
-    "label": "Veronica Mars"
+    "label": "Veronica Mars",
+    "group": "Veronica Mars"
   },
   {
     "id": "Victorious",
-    "label": "Victorious"
+    "label": "Victorious",
+    "group": "Other"
   },
   {
     "id": "Vinnie and Bobby",
-    "label": "Vinnie and Bobby"
+    "label": "Vinnie and Bobby",
+    "group": "Other"
   },
   {
     "id": "Viva Las Vegas",
-    "label": "Viva Las Vegas"
+    "label": "Viva Las Vegas",
+    "group": "Other"
   },
   {
     "id": "Vixen",
-    "label": "Vixen"
+    "label": "Vixen",
+    "group": "Other"
   },
   {
     "id": "W*A*L*T*E*R",
-    "label": "W*A*L*T*E*R"
+    "label": "W*A*L*T*E*R",
+    "group": "Other"
   },
   {
     "id": "Walker Texas Ranger",
-    "label": "Walker Texas Ranger"
+    "label": "Walker Texas Ranger",
+    "group": "Other"
   },
   {
     "id": "Wanda Vision",
-    "label": "Wanda Vision"
+    "label": "Wanda Vision",
+    "group": "Marvel"
   },
   {
     "id": "Ware House 13",
-    "label": "Ware House 13"
+    "label": "Ware House 13",
+    "group": "Other"
   },
   {
     "id": "Webster",
-    "label": "Webster"
+    "label": "Webster",
+    "group": "Other"
   },
   {
     "id": "Weeds",
-    "label": "Weeds"
+    "label": "Weeds",
+    "group": "Other"
   },
   {
     "id": "What If...",
-    "label": "What If..."
+    "label": "What If...",
+    "group": "Other"
   },
   {
     "id": "White Collar",
-    "label": "White Collar"
+    "label": "White Collar",
+    "group": "Other"
   },
   {
     "id": "Whiz Kids",
-    "label": "Whiz Kids"
+    "label": "Whiz Kids",
+    "group": "Other"
   },
   {
     "id": "Wings",
-    "label": "Wings"
+    "label": "Wings",
+    "group": "Cheers / Wings"
   },
   {
     "id": "Wisdom of the Crowd",
-    "label": "Wisdom of the Crowd"
+    "label": "Wisdom of the Crowd",
+    "group": "Other"
   },
   {
     "id": "Without a Trace",
-    "label": "Without a Trace"
+    "label": "Without a Trace",
+    "group": "Other"
   },
   {
     "id": "Wizards of Waverly Place",
-    "label": "Wizards of Waverly Place"
+    "label": "Wizards of Waverly Place",
+    "group": "Other"
   },
   {
     "id": "Wonder Woman (1975)",
-    "label": "Wonder Woman (1975)"
+    "label": "Wonder Woman (1975)",
+    "group": "Other"
   },
   {
     "id": "Wonderfalls",
-    "label": "Wonderfalls"
+    "label": "Wonderfalls",
+    "group": "Other"
   },
   {
     "id": "Workaholics",
-    "label": "Workaholics"
+    "label": "Workaholics",
+    "group": "Other"
   },
   {
     "id": "You Wish",
-    "label": "You Wish"
+    "label": "You Wish",
+    "group": "Other"
   },
   {
     "id": "Young Sheldon",
-    "label": "Young Sheldon"
+    "label": "Young Sheldon",
+    "group": "Other"
   },
   {
     "id": "Zeke and Luther",
-    "label": "Zeke and Luther"
+    "label": "Zeke and Luther",
+    "group": "Other"
   },
   {
     "id": "Zero Hour",
-    "label": "Zero Hour"
+    "label": "Zero Hour",
+    "group": "Other"
   },
   {
     "id": "Zoey 101",
-    "label": "Zoey 101"
+    "label": "Zoey 101",
+    "group": "Other"
   },
   {
     "id": "iZombie",
-    "label": "iZombie"
+    "label": "iZombie",
+    "group": "Other"
   }
 ]
