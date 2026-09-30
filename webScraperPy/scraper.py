@@ -77,15 +77,21 @@ def get_master_list_links(page_title):
     return sorted(set(all_links))
 
 
-def get_page_links(title):
+def get_links_for_titles(titles):
+    """Outgoing main-namespace links for many pages in one query."""
     params = {
         "action": "query",
-        "titles": title,
+        "titles": "|".join(titles),
         "prop": "links",
         "pllimit": "max",
         "format": "json",
+        "redirects": "1",
     }
-    linked = _query_links(params)
+    return _query_links(params)
+
+
+def get_page_links(title):
+    linked = get_links_for_titles([title])
     for links in linked.values():
         return links
     return []
@@ -103,25 +109,36 @@ def orchestrator():
     edges = []
     seen_edges = set()
 
-    for i, title in enumerate(shows):
-        print(f"[{i + 1}/{len(shows)}] {title}")
+    batch_size = 25
+    for start in range(0, len(shows), batch_size):
+        batch = shows[start:start + batch_size]
+        print(f"[{start + 1}-{start + len(batch)}/{len(shows)}] fetching links")
         try:
-            linked_titles = get_page_links(title)
+            linked_by_title = get_links_for_titles(batch)
         except requests.exceptions.HTTPError as e:
-            print(f"  ERROR: HTTP {e.response.status_code} fetching links for {title}")
-            continue
+            print(f"  ERROR: HTTP {e.response.status_code} fetching a batch, retrying one by one")
+            linked_by_title = {}
+            for title in batch:
+                try:
+                    linked_by_title[title] = get_page_links(title)
+                except Exception as inner:
+                    print(f"  ERROR: {title}: {inner}")
+                time.sleep(REQUEST_DELAY_SECONDS)
         except Exception as e:
-            print(f"  ERROR: unexpected error fetching links for {title}: {e}")
+            print(f"  ERROR: unexpected error fetching a batch: {e}")
             continue
 
-        for target in linked_titles:
-            if target in node_set and target != title:
-                pair = tuple(sorted((title, target)))
-                if pair not in seen_edges:
-                    seen_edges.add(pair)
-                    edges.append(
-                        {"id": f"{pair[0]}__{pair[1]}", "source": pair[0], "target": pair[1]}
-                    )
+        for title, linked_titles in linked_by_title.items():
+            if title not in node_set:
+                continue
+            for target in linked_titles:
+                if target in node_set and target != title:
+                    pair = tuple(sorted((title, target)))
+                    if pair not in seen_edges:
+                        seen_edges.add(pair)
+                        edges.append(
+                            {"id": f"{pair[0]}__{pair[1]}", "source": pair[0], "target": pair[1]}
+                        )
         time.sleep(REQUEST_DELAY_SECONDS)
 
     nodes_path = OUT_DIR / "nodes.json"

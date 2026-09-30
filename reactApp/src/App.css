@@ -1,71 +1,206 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .graph-playground-div {
-  width: 100vw;
-  height: 100vh;
-  padding: 0;
+  width: 100%;
+  height: 100%;
   position: relative;
+  background: #17191d;
+}
+
+.graph-playground-div .react-flow {
+  --xy-background-color: #17191d;
+  --xy-background-pattern-color: rgba(255, 255, 255, 0.14);
+  background: #17191d;
+}
+
+.graph-toolbar {
+  position: absolute;
+  z-index: 5;
+  bottom: 18px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(340px, calc(100% - 28px));
+  padding: 12px 12px 10px;
+  border-radius: 14px;
+  background: rgba(23, 25, 29, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.28);
 }
 
 .graph-search {
-  position: absolute;
-  top: 12px;
-  left: 12px;
-  z-index: 10;
-  padding: 8px 12px;
-  border-radius: 6px;
-  border: 1px solid #555;
-  background: #1e1e1e;
-  color: #fff;
-  font-size: 14px;
-  width: 240px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 9px 12px;
+  border-radius: 9px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: #23262b;
+  color: #f4f1ea;
+  font: 500 14px/1.2 "Segoe UI", system-ui, sans-serif;
+  outline: none;
+}
+
+.graph-search:focus {
+  border-color: rgba(231, 195, 106, 0.8);
+}
+
+.graph-hint {
+  margin: 8px 2px 0;
+  color: rgba(244, 241, 234, 0.68);
+  font: 500 12px/1.4 "Segoe UI", system-ui, sans-serif;
 }
 
 .graph-status {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
-  color: #fff;
-  background: #282c34;
-  font-size: 1.2rem;
+  height: 100%;
+  min-height: 240px;
+  color: #f4f1ea;
+  background: #17191d;
+  font: 500 1.05rem/1.4 "Segoe UI", system-ui, sans-serif;
   text-align: center;
   padding: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.show-node {
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: 0 12px;
+  border-radius: 999px;
+  background: #2a2e34;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  color: #f7f4ee;
+  font: 600 13px/1 "Segoe UI", system-ui, sans-serif;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.18);
 }
 
-.App-link {
-  color: #61dafb;
+.show-label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.show-node.is-hub {
+  border-color: rgba(231, 195, 106, 0.55);
+}
+
+.show-node.is-origin {
+  background: #3c3422;
+  border-color: #e7c36a;
+  color: #ffe7a8;
+}
+
+.show-node.is-unlinked {
+  background: #23262b;
+  border-color: rgba(255, 255, 255, 0.08);
+  color: rgba(244, 241, 234, 0.78);
+  box-shadow: none;
+}
+
+.show-handle {
+  width: 1px;
+  height: 1px;
+  min-width: 0;
+  min-height: 0;
+  opacity: 0;
+  border: 0;
+  background: transparent;
+  pointer-events: none;
+}
+
+.show-handle-center {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.universe-frame {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.universe-title {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  right: 16px;
+  overflow: hidden;
+  color: rgba(231, 195, 106, 0.9);
+  font: 600 11px/1.2 "Segoe UI", system-ui, sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.universe-frame.is-unlinked .universe-title {
+  color: rgba(244, 241, 234, 0.46);
+}
+
+.react-flow__node-show,
+.react-flow__node-universe {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.react-flow__node.is-match .show-node {
+  border-color: #ff8a3d;
+  box-shadow: 0 0 0 3px rgba(255, 138, 61, 0.35);
+}
+
+.react-flow__node.is-linked .show-node {
+  border-color: rgba(231, 195, 106, 0.9);
+}
+
+.react-flow__node.is-dim {
+  opacity: 0.16;
+}
+
+.react-flow__edge-path {
+  stroke: rgba(214, 206, 188, 0.55);
+  stroke-width: 1.35;
+}
+
+.react-flow__edge.is-chord .react-flow__edge-path {
+  stroke: rgba(214, 206, 188, 0.16);
+  stroke-width: 1;
+}
+
+.react-flow__edge.is-hot .react-flow__edge-path {
+  stroke: #e7c36a;
+  stroke-width: 2.2;
+}
+
+.react-flow__edge.is-dim .react-flow__edge-path {
+  stroke: rgba(255, 255, 255, 0.05);
+  stroke-width: 1;
+}
+
+.react-flow__controls {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.24);
+}
+
+.react-flow__minimap {
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: #14161a;
+}
+
+.react-flow__attribution {
+  background: transparent;
+  color: rgba(255, 255, 255, 0.35);
 }
