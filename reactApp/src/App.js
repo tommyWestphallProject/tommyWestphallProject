@@ -4,8 +4,6 @@ import {
   ReactFlow,
   ReactFlowProvider,
   Controls,
-  Background,
-  BackgroundVariant,
   MiniMap,
   Handle,
   Position,
@@ -486,7 +484,6 @@ function FlowCanvas() {
         deleteKeyCode={null}
         proOptions={{ hideAttribution: false }}
       >
-        <Background color="rgba(255,255,255,0.16)" gap={22} size={1.1} variant={BackgroundVariant.Dots} />
         <MiniMap
           pannable
           zoomable

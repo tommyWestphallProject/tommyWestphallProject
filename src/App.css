@@ -2,13 +2,15 @@
   width: 100%;
   height: 100%;
   position: relative;
-  background: #17191d;
+  background: transparent;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
-.graph-playground-div .react-flow {
-  --xy-background-color: #17191d;
-  --xy-background-pattern-color: rgba(255, 255, 255, 0.14);
-  background: #17191d;
+.graph-playground-div .react-flow,
+.graph-playground-div .react-flow__renderer,
+.graph-playground-div .react-flow__pane {
+  --xy-background-color: transparent;
+  background: transparent;
 }
 
 .graph-toolbar {
@@ -20,8 +22,10 @@
   width: min(340px, calc(100% - 28px));
   padding: 12px 12px 10px;
   border-radius: 14px;
-  background: rgba(23, 25, 29, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: color-mix(in srgb, #000 72%, transparent);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
   box-shadow: 0 12px 32px rgba(0, 0, 0, 0.28);
 }
 
@@ -31,10 +35,10 @@
   box-sizing: border-box;
   padding: 9px 12px;
   border-radius: 9px;
-  border: 1px solid rgba(255, 255, 255, 0.14);
-  background: #23262b;
-  color: #f4f1ea;
-  font: 500 14px/1.2 "Segoe UI", system-ui, sans-serif;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: #000;
+  color: #fafafa;
+  font: 500 14px/1.2 "Inter", sans-serif;
   outline: none;
 }
 
@@ -45,7 +49,7 @@
 .graph-hint {
   margin: 8px 2px 0;
   color: rgba(244, 241, 234, 0.68);
-  font: 500 12px/1.4 "Segoe UI", system-ui, sans-serif;
+  font: 500 12px/1.4 "Inter", sans-serif;
 }
 
 .graph-status {
@@ -54,9 +58,9 @@
   justify-content: center;
   height: 100%;
   min-height: 240px;
-  color: #f4f1ea;
-  background: #17191d;
-  font: 500 1.05rem/1.4 "Segoe UI", system-ui, sans-serif;
+  color: #fafafa;
+  background: transparent;
+  font: 500 1.05rem/1.4 "Inter", sans-serif;
   text-align: center;
   padding: 20px;
 }
@@ -70,11 +74,11 @@
   height: 100%;
   padding: 0 12px;
   border-radius: 999px;
-  background: #2a2e34;
-  border: 1px solid rgba(255, 255, 255, 0.14);
-  color: #f7f4ee;
-  font: 600 13px/1 "Segoe UI", system-ui, sans-serif;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.18);
+  background: #000;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  color: #fafafa;
+  font: 600 13px/1 "Inter", sans-serif;
+  box-shadow: none;
 }
 
 .show-label {
@@ -94,10 +98,9 @@
 }
 
 .show-node.is-unlinked {
-  background: #23262b;
-  border-color: rgba(255, 255, 255, 0.08);
-  color: rgba(244, 241, 234, 0.78);
-  box-shadow: none;
+  background: #000;
+  border-color: rgba(255, 255, 255, 0.1);
+  color: rgba(250, 250, 250, 0.72);
 }
 
 .show-handle {
@@ -122,8 +125,8 @@
   height: 100%;
   box-sizing: border-box;
   border-radius: 18px;
-  background: rgba(255, 255, 255, 0.035);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.12);
 }
 
 .universe-title {
@@ -133,7 +136,7 @@
   right: 16px;
   overflow: hidden;
   color: rgba(231, 195, 106, 0.9);
-  font: 600 11px/1.2 "Segoe UI", system-ui, sans-serif;
+  font: 600 11px/1.2 "Inter", sans-serif;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   text-overflow: ellipsis;
@@ -197,7 +200,7 @@
   border-radius: 12px;
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.08);
-  background: #14161a;
+  background: #000;
 }
 
 .react-flow__attribution {

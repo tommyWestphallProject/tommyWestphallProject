@@ -1,0 +1,139 @@
+/* Aligns this page with architgoswami.com: black field, Inter, drifting specks. */
+
+html, body {
+    background: #000;
+    color: #fafafa;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body, input, select, textarea, button {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+h1, h2, h3 {
+    letter-spacing: -0.03em;
+    color: #fafafa;
+}
+
+.particles {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1;
+}
+
+#sidebar,
+#wrapper,
+#footer {
+    position: relative;
+    z-index: 2;
+}
+
+#sidebar {
+    position: fixed;
+    z-index: 50;
+    display: block;
+    height: 3.5em;
+    left: 0;
+    line-height: 3.5em;
+    overflow: hidden;
+    padding: 0;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    background: color-mix(in srgb, #000 72%, transparent);
+    border-right: 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+#sidebar > .inner {
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+    height: inherit;
+    line-height: inherit;
+}
+
+#sidebar nav,
+#sidebar nav ul {
+    display: flex;
+    height: inherit;
+    line-height: inherit;
+    margin: 0;
+}
+
+#sidebar nav ul li {
+    display: block;
+    height: inherit;
+    line-height: inherit;
+    margin: 0 0 0 2em;
+    padding: 0;
+    opacity: 1;
+    transform: none;
+}
+
+#sidebar nav a {
+    height: inherit;
+    line-height: inherit;
+    padding: 0;
+}
+
+#sidebar nav a:before {
+    background: rgba(255, 255, 255, 0.28);
+}
+
+#sidebar nav a:after {
+    background: #fafafa;
+    background-image: none;
+}
+
+#sidebar + #wrapper,
+#sidebar + #wrapper + #footer {
+    margin-left: 0;
+}
+
+#sidebar + #wrapper {
+    padding-top: 3.5em;
+}
+
+#sidebar nav a {
+    font-family: "Inter", sans-serif;
+    letter-spacing: 0.04em;
+    text-transform: none;
+    font-size: 0.95em;
+    font-weight: 500;
+    color: rgba(250, 250, 250, 0.72);
+}
+
+#sidebar nav a:hover,
+#sidebar nav a.active {
+    color: #fafafa;
+}
+
+.wrapper,
+.wrapper.style1,
+.wrapper.style1-alt,
+.wrapper.style2,
+.wrapper.style2-alt,
+.wrapper.style3,
+.wrapper.style3-alt,
+.wrapper.alt,
+#footer.wrapper.style1-alt {
+    background: transparent;
+    background-image: none;
+}
+
+#intro {
+    background: transparent;
+    background-image: none;
+}
+
+.spotlights > section,
+.spotlights > section:nth-child(2),
+.spotlights > section:nth-child(3) {
+    background: transparent;
+}
